@@ -1,0 +1,25 @@
+{
+  "role_types": {
+    "1": {
+      "role_id": 1,
+      "role_abbr": "Rep",
+      "role_name": "Representative"
+    },
+    "2": {
+      "role_name": "Senator",
+      "role_id": 2,
+      "role_abbr": "Sen"
+    },
+    "3": {
+      "role_id": 3,
+      "role_abbr": "Jnt",
+      "role_name": "Joint Conference"
+    },
+    "4": {
+      "role_id": 4,
+      "role_abbr": "Gov",
+      "role_name": "Governor"
+    },
+    "__type__": "collection"
+  }
+}

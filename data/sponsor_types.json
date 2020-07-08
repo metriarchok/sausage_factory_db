@@ -1,0 +1,19 @@
+{
+  "0": {
+    "sponsor_type_id": 0,
+    "sponsor_type_desc": "Sponsor"
+  },
+  "1": {
+    "sponsor_type_id": 1,
+    "sponsor_type_desc": "Primary Sponsor"
+  },
+  "2": {
+    "sponsor_type_id": 2,
+    "sponsor_type_desc": "Co-Sponsor"
+  },
+  "3": {
+    "sponsor_type_id": 3,
+    "sponsor_type_desc": "Joint Sponsor"
+  },
+  "__type__": "collection"
+}

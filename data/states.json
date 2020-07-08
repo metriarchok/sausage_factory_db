@@ -1,0 +1,523 @@
+{
+  "1": {
+    "longitude": -86.300489,
+    "state_id": 1,
+    "capitol": "Montgomery",
+    "biennium": 0,
+    "state_abbr": "AL",
+    "latitude": 32.377716,
+    "carry_over": "NO",
+    "state_name": "Alabama"
+  },
+  "2": {
+    "longitude": -134.412957,
+    "state_id": 2,
+    "capitol": "Juneau",
+    "biennium": 1,
+    "state_abbr": "AK",
+    "latitude": 58.301105,
+    "carry_over": "OE",
+    "state_name": "Alaska"
+  },
+  "3": {
+    "biennium": 0,
+    "state_abbr": "AZ",
+    "latitude": 33.448113,
+    "carry_over": "NO",
+    "state_name": "Arizona",
+    "longitude": -112.097037,
+    "state_id": 3,
+    "capitol": "Phoenix"
+  },
+  "4": {
+    "carry_over": "NO",
+    "state_name": "Arkansas",
+    "longitude": -92.289422,
+    "state_id": 4,
+    "capitol": "Little Rock",
+    "biennium": 0,
+    "state_abbr": "AR",
+    "latitude": 34.746361
+  },
+  "5": {
+    "state_name": "California",
+    "longitude": -121.493766,
+    "state_id": 5,
+    "capitol": "Sacramento",
+    "biennium": 1,
+    "state_abbr": "CA",
+    "latitude": 38.5767,
+    "carry_over": "OE"
+  },
+  "6": {
+    "latitude": 39.739276,
+    "carry_over": "NO",
+    "state_name": "Colorado",
+    "longitude": -104.984848,
+    "state_id": 6,
+    "capitol": "Denver",
+    "biennium": 0,
+    "state_abbr": "CO"
+  },
+  "7": {
+    "carry_over": "NO",
+    "state_name": "Connecticut",
+    "longitude": -72.682383,
+    "state_id": 7,
+    "capitol": "Hartford",
+    "biennium": 0,
+    "state_abbr": "CT",
+    "latitude": 41.762831
+  },
+  "8": {
+    "state_name": "Delaware",
+    "longitude": -75.51957,
+    "state_id": 8,
+    "capitol": "Dover",
+    "biennium": 1,
+    "state_abbr": "DE",
+    "latitude": 39.157354,
+    "carry_over": "OE"
+  },
+  "9": {
+    "state_id": 9,
+    "capitol": "Tallahassee",
+    "biennium": 0,
+    "state_abbr": "FL",
+    "latitude": 30.438086,
+    "carry_over": "NO",
+    "state_name": "Florida",
+    "longitude": -84.282196
+  },
+  "10": {
+    "carry_over": "OE",
+    "state_name": "Georgia",
+    "longitude": -84.388195,
+    "state_id": 10,
+    "capitol": "Atlanta",
+    "biennium": 1,
+    "state_abbr": "GA",
+    "latitude": 33.749035
+  },
+  "11": {
+    "state_id": 11,
+    "capitol": "Honolulu",
+    "biennium": 0,
+    "state_abbr": "HI",
+    "latitude": 21.294786,
+    "carry_over": "OE",
+    "state_name": "Hawaii",
+    "longitude": -157.858818
+  },
+  "12": {
+    "longitude": -116.19994,
+    "state_id": 12,
+    "capitol": "Boise",
+    "biennium": 0,
+    "state_abbr": "ID",
+    "latitude": 43.61785,
+    "carry_over": "NO",
+    "state_name": "Idaho"
+  },
+  "13": {
+    "carry_over": "OE",
+    "state_name": "Illinois",
+    "longitude": -89.654972,
+    "state_id": 13,
+    "capitol": "Springfield",
+    "biennium": 1,
+    "state_abbr": "IL",
+    "latitude": 39.798358
+  },
+  "14": {
+    "longitude": -86.162634,
+    "state_id": 14,
+    "capitol": "Indianapolis",
+    "biennium": 0,
+    "state_abbr": "IN",
+    "latitude": 39.76859,
+    "carry_over": "NO",
+    "state_name": "Indiana"
+  },
+  "15": {
+    "longitude": -93.603694,
+    "state_id": 15,
+    "capitol": "Des Moines",
+    "biennium": 1,
+    "state_abbr": "IA",
+    "latitude": 41.591183,
+    "carry_over": "OE",
+    "state_name": "Iowa"
+  },
+  "16": {
+    "longitude": -95.67808,
+    "state_id": 16,
+    "capitol": "Topeka",
+    "biennium": 1,
+    "state_abbr": "KS",
+    "latitude": 39.04807,
+    "carry_over": "OE",
+    "state_name": "Kansas"
+  },
+  "17": {
+    "longitude": -84.875265,
+    "state_id": 17,
+    "capitol": "Frankfort",
+    "biennium": 0,
+    "state_abbr": "KY",
+    "latitude": 38.186658,
+    "carry_over": "NO",
+    "state_name": "Kentucky"
+  },
+  "18": {
+    "longitude": -91.187356,
+    "state_id": 18,
+    "capitol": "Baton Rouge",
+    "biennium": 0,
+    "state_abbr": "LA",
+    "latitude": 30.456615,
+    "carry_over": "NO",
+    "state_name": "Louisiana"
+  },
+  "19": {
+    "biennium": 1,
+    "state_abbr": "ME",
+    "latitude": 44.307185,
+    "carry_over": "OE",
+    "state_name": "Maine",
+    "longitude": -69.78139,
+    "state_id": 19,
+    "capitol": "Augusta"
+  },
+  "20": {
+    "state_id": 20,
+    "capitol": "Annapolis",
+    "biennium": 0,
+    "state_abbr": "MD",
+    "latitude": 38.978862,
+    "carry_over": "NO",
+    "state_name": "Maryland",
+    "longitude": -76.490685
+  },
+  "21": {
+    "carry_over": "OE",
+    "state_name": "Massachusetts",
+    "longitude": -71.063701,
+    "state_id": 21,
+    "capitol": "Boston",
+    "biennium": 1,
+    "state_abbr": "MA",
+    "latitude": 42.358424
+  },
+  "22": {
+    "longitude": -84.5553,
+    "state_id": 22,
+    "capitol": "Lansing",
+    "biennium": 1,
+    "state_abbr": "MI",
+    "latitude": 42.73347,
+    "carry_over": "OE",
+    "state_name": "Michigan"
+  },
+  "23": {
+    "biennium": 1,
+    "state_abbr": "MN",
+    "latitude": 44.948232,
+    "carry_over": "OE",
+    "state_name": "Minnesota",
+    "longitude": -93.105406,
+    "state_id": 23,
+    "capitol": "Saint Paul"
+  },
+  "24": {
+    "carry_over": "NO",
+    "state_name": "Mississippi",
+    "longitude": -90.182005,
+    "state_id": 24,
+    "capitol": "Jackson",
+    "biennium": 0,
+    "state_abbr": "MS",
+    "latitude": 32.303799
+  },
+  "25": {
+    "state_name": "Missouri",
+    "longitude": -92.173019,
+    "state_id": 25,
+    "capitol": "Jefferson City",
+    "biennium": 0,
+    "state_abbr": "MO",
+    "latitude": 38.579206,
+    "carry_over": "NO"
+  },
+  "26": {
+    "carry_over": "NO",
+    "state_name": "Montana",
+    "longitude": -112.01818,
+    "state_id": 26,
+    "capitol": "Helena",
+    "biennium": 0,
+    "state_abbr": "MT",
+    "latitude": 46.585774
+  },
+  "27": {
+    "longitude": -96.699655,
+    "state_id": 27,
+    "capitol": "Lincoln",
+    "biennium": 1,
+    "state_abbr": "NE",
+    "latitude": 40.807935,
+    "carry_over": "OE",
+    "state_name": "Nebraska"
+  },
+  "28": {
+    "state_name": "Nevada",
+    "longitude": -119.766153,
+    "state_id": 28,
+    "capitol": "Carson City",
+    "biennium": 0,
+    "state_abbr": "NV",
+    "latitude": 39.164009,
+    "carry_over": "NO"
+  },
+  "29": {
+    "carry_over": "OE",
+    "state_name": "New Hampshire",
+    "longitude": -71.537659,
+    "state_id": 29,
+    "capitol": "Concord",
+    "biennium": 0,
+    "state_abbr": "NH",
+    "latitude": 43.206854
+  },
+  "30": {
+    "longitude": -74.77014,
+    "state_id": 30,
+    "capitol": "Trenton",
+    "biennium": 1,
+    "state_abbr": "NJ",
+    "latitude": 40.22028,
+    "carry_over": "EO",
+    "state_name": "New Jersey"
+  },
+  "31": {
+    "longitude": -105.940074,
+    "state_id": 31,
+    "capitol": "Santa Fe",
+    "biennium": 0,
+    "state_abbr": "NM",
+    "latitude": 35.68244,
+    "carry_over": "NO",
+    "state_name": "New Mexico"
+  },
+  "32": {
+    "carry_over": "OE",
+    "state_name": "New York",
+    "longitude": -73.97419,
+    "state_id": 32,
+    "capitol": "Albany",
+    "biennium": 1,
+    "state_abbr": "NY",
+    "latitude": 40.77112
+  },
+  "33": {
+    "longitude": -78.63911,
+    "state_id": 33,
+    "capitol": "Raleigh",
+    "biennium": 1,
+    "state_abbr": "NC",
+    "latitude": 35.780498,
+    "carry_over": "OE",
+    "state_name": "North Carolina"
+  },
+  "34": {
+    "carry_over": "NO",
+    "state_name": "North Dakota",
+    "longitude": -100.781955,
+    "state_id": 34,
+    "capitol": "Bismarck",
+    "biennium": 1,
+    "state_abbr": "ND",
+    "latitude": 46.8209
+  },
+  "35": {
+    "biennium": 1,
+    "state_abbr": "OH",
+    "latitude": 39.961392,
+    "carry_over": "OE",
+    "state_name": "Ohio",
+    "longitude": -82.999065,
+    "state_id": 35,
+    "capitol": "Columbus"
+  },
+  "36": {
+    "state_name": "Oklahoma",
+    "longitude": -97.50334,
+    "state_id": 36,
+    "capitol": "Oklahoma City",
+    "biennium": 0,
+    "state_abbr": "OK",
+    "latitude": 35.49232,
+    "carry_over": "OE"
+  },
+  "37": {
+    "carry_over": "NO",
+    "state_name": "Oregon",
+    "longitude": -123.030155,
+    "state_id": 37,
+    "capitol": "Salem",
+    "biennium": 0,
+    "state_abbr": "OR",
+    "latitude": 44.938361
+  },
+  "38": {
+    "biennium": 1,
+    "state_abbr": "PA",
+    "latitude": 40.26433,
+    "carry_over": "OE",
+    "state_name": "Pennsylvania",
+    "longitude": -76.883521,
+    "state_id": 38,
+    "capitol": "Harrisburg"
+  },
+  "39": {
+    "biennium": 0,
+    "state_abbr": "RI",
+    "latitude": 41.831097,
+    "carry_over": "OE",
+    "state_name": "Rhode Island",
+    "longitude": -71.414883,
+    "state_id": 39,
+    "capitol": "Providence"
+  },
+  "40": {
+    "longitude": -81.03321,
+    "state_id": 40,
+    "capitol": "Columbia",
+    "biennium": 1,
+    "state_abbr": "SC",
+    "latitude": 34.000386,
+    "carry_over": "OE",
+    "state_name": "South Carolina"
+  },
+  "41": {
+    "latitude": 44.36763,
+    "carry_over": "NO",
+    "state_name": "South Dakota",
+    "longitude": -100.34604,
+    "state_id": 41,
+    "capitol": "Pierre",
+    "biennium": 0,
+    "state_abbr": "SD"
+  },
+  "42": {
+    "longitude": -86.784297,
+    "state_id": 42,
+    "capitol": "Nashville",
+    "biennium": 1,
+    "state_abbr": "TN",
+    "latitude": 36.166011,
+    "carry_over": "OE",
+    "state_name": "Tennessee"
+  },
+  "43": {
+    "state_name": "Texas",
+    "longitude": -97.740631,
+    "state_id": 43,
+    "capitol": "Austin",
+    "biennium": 1,
+    "state_abbr": "TX",
+    "latitude": 30.274001,
+    "carry_over": "NO"
+  },
+  "44": {
+    "biennium": 0,
+    "state_abbr": "UT",
+    "latitude": 40.7772,
+    "carry_over": "NO",
+    "state_name": "Utah",
+    "longitude": -111.88828,
+    "state_id": 44,
+    "capitol": "Salt Lake City"
+  },
+  "45": {
+    "carry_over": "OE",
+    "state_name": "Vermont",
+    "longitude": -72.580716,
+    "state_id": 45,
+    "capitol": "Montpelier",
+    "biennium": 1,
+    "state_abbr": "VT",
+    "latitude": 44.262141
+  },
+  "46": {
+    "longitude": -77.433449,
+    "state_id": 46,
+    "capitol": "Richmond",
+    "biennium": 0,
+    "state_abbr": "VA",
+    "latitude": 37.538783,
+    "carry_over": "EO",
+    "state_name": "Virginia"
+  },
+  "47": {
+    "biennium": 1,
+    "state_abbr": "WA",
+    "latitude": 47.035964,
+    "carry_over": "OE",
+    "state_name": "Washington",
+    "longitude": -122.904799,
+    "state_id": 47,
+    "capitol": "Olympia"
+  },
+  "48": {
+    "biennium": 0,
+    "state_abbr": "WV",
+    "latitude": 38.336166,
+    "carry_over": "OE",
+    "state_name": "West Virginia",
+    "longitude": -81.612186,
+    "state_id": 48,
+    "capitol": "Charleston"
+  },
+  "49": {
+    "carry_over": "OE",
+    "state_name": "Wisconsin",
+    "longitude": -89.38412,
+    "state_id": 49,
+    "capitol": "Madison",
+    "biennium": 1,
+    "state_abbr": "WI",
+    "latitude": 43.07453
+  },
+  "50": {
+    "longitude": -104.820112,
+    "state_id": 50,
+    "capitol": "Cheyenne",
+    "biennium": 0,
+    "state_abbr": "WY",
+    "latitude": 41.140101,
+    "carry_over": "NO",
+    "state_name": "Wyoming"
+  },
+  "51": {
+    "state_id": 51,
+    "capitol": "Washington, DC",
+    "biennium": 1,
+    "state_abbr": "DC",
+    "latitude": 38.894825,
+    "carry_over": "OE",
+    "state_name": "Washington D.C.",
+    "longitude": -77.031338
+  },
+  "52": {
+    "state_name": "US Congress",
+    "longitude": -77.008823,
+    "state_id": 52,
+    "capitol": "Washington, DC",
+    "biennium": 1,
+    "state_abbr": "US",
+    "latitude": 38.889873,
+    "carry_over": "OE"
+  },
+  "__type__": "collection"
+}

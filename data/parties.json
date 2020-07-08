@@ -1,0 +1,39 @@
+{
+  "1": {
+    "party_short": "Dem",
+    "party_id": 1,
+    "party_name": "Democrat",
+    "party_abbr": "D"
+  },
+  "2": {
+    "party_id": 2,
+    "party_name": "Republican",
+    "party_abbr": "R",
+    "party_short": "Rep"
+  },
+  "3": {
+    "party_short": "Ind",
+    "party_id": 3,
+    "party_name": "Independent",
+    "party_abbr": "I"
+  },
+  "4": {
+    "party_short": "Grn",
+    "party_id": 4,
+    "party_name": "Green Party",
+    "party_abbr": "G"
+  },
+  "5": {
+    "party_short": "Lib",
+    "party_id": 5,
+    "party_name": "Libertarian",
+    "party_abbr": "L"
+  },
+  "6": {
+    "party_short": "NP ",
+    "party_id": 6,
+    "party_name": "Nonpartisan",
+    "party_abbr": "N"
+  },
+  "__type__": "collection"
+}

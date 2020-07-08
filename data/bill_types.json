@@ -1,0 +1,118 @@
+{
+  "1": {
+    "bill_type_name": "Bill",
+    "bill_type_abbr": "B",
+    "bill_type_id": 1
+  },
+  "2": {
+    "bill_type_abbr": "R",
+    "bill_type_id": 2,
+    "bill_type_name": "Resolution"
+  },
+  "3": {
+    "bill_type_name": "Concurrent Resolution",
+    "bill_type_abbr": "CR",
+    "bill_type_id": 3
+  },
+  "4": {
+    "bill_type_abbr": "JR",
+    "bill_type_id": 4,
+    "bill_type_name": "Joint Resolution"
+  },
+  "5": {
+    "bill_type_id": 5,
+    "bill_type_name": "Joint Resolution Constitutional Amendment",
+    "bill_type_abbr": "JRCA"
+  },
+  "6": {
+    "bill_type_abbr": "EO",
+    "bill_type_id": 6,
+    "bill_type_name": "Executive Order"
+  },
+  "7": {
+    "bill_type_abbr": "CA",
+    "bill_type_id": 7,
+    "bill_type_name": "Constitutional Amendment"
+  },
+  "8": {
+    "bill_type_abbr": "M",
+    "bill_type_id": 8,
+    "bill_type_name": "Memorial"
+  },
+  "9": {
+    "bill_type_id": 9,
+    "bill_type_name": "Claim",
+    "bill_type_abbr": "CL"
+  },
+  "10": {
+    "bill_type_abbr": "C",
+    "bill_type_id": 10,
+    "bill_type_name": "Commendation"
+  },
+  "11": {
+    "bill_type_abbr": "CSR",
+    "bill_type_id": 11,
+    "bill_type_name": "Committee Study Request"
+  },
+  "12": {
+    "bill_type_id": 12,
+    "bill_type_name": "Joint Memorial",
+    "bill_type_abbr": "JM"
+  },
+  "13": {
+    "bill_type_abbr": "P",
+    "bill_type_id": 13,
+    "bill_type_name": "Proclamation"
+  },
+  "14": {
+    "bill_type_abbr": "SR",
+    "bill_type_id": 14,
+    "bill_type_name": "Study Request"
+  },
+  "15": {
+    "bill_type_id": 15,
+    "bill_type_name": "Address",
+    "bill_type_abbr": "A"
+  },
+  "16": {
+    "bill_type_abbr": "CM",
+    "bill_type_id": 16,
+    "bill_type_name": "Concurrent Memorial"
+  },
+  "17": {
+    "bill_type_name": "Initiative",
+    "bill_type_abbr": "I",
+    "bill_type_id": 17
+  },
+  "18": {
+    "bill_type_id": 18,
+    "bill_type_name": "Petition",
+    "bill_type_abbr": "PET"
+  },
+  "19": {
+    "bill_type_abbr": "SB",
+    "bill_type_id": 19,
+    "bill_type_name": "Study Bill"
+  },
+  "20": {
+    "bill_type_name": "Initiative Petition",
+    "bill_type_abbr": "IP",
+    "bill_type_id": 20
+  },
+  "21": {
+    "bill_type_abbr": "RB",
+    "bill_type_id": 21,
+    "bill_type_name": "Repeal Bill"
+  },
+  "22": {
+    "bill_type_abbr": "RM",
+    "bill_type_id": 22,
+    "bill_type_name": "Remonstration"
+  },
+  "23": {
+    "bill_type_abbr": "CB",
+    "bill_type_id": 23,
+    "bill_type_name": "Committee Bill"
+  },
+  "__type__": "collection"
+}

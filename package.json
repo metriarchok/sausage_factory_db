@@ -1,0 +1,10 @@
+{
+  "name": "sausage-factory-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Brimer",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^8.13.0"
+  }
+}

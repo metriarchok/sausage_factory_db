@@ -1,0 +1,161 @@
+{
+  "49": {
+    "state_id": 36,
+    "name": "2010 Regular Session",
+    "session_hash": "d3c38982f90fa92f6466dc9e4e942150",
+    "session_id": 49,
+    "year_end": 2010,
+    "total_bills": 3690,
+    "special": 0,
+    "year_start": 2010,
+    "session_name": "Regular Session"
+  },
+  "128": {
+    "special": 0,
+    "year_start": 2011,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2011 Regular Session",
+    "session_hash": "e1cda5e3bc59da01d96e118865bfdbf0",
+    "session_id": 128,
+    "year_end": 2011,
+    "total_bills": 2391
+  },
+  "653": {
+    "total_bills": 4575,
+    "year_end": 2012,
+    "special": 0,
+    "year_start": 2012,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2012 Regular Session",
+    "session_hash": "26a9b63509aae0a83e20ba71422e965d",
+    "session_id": 653
+  },
+  "980": {
+    "special": 0,
+    "year_start": 2013,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2013 Regular Session",
+    "session_hash": "50c60d8a6aa89094f21b058158ed8825",
+    "session_id": 980,
+    "year_end": 2013,
+    "total_bills": 2682
+  },
+  "1043": {
+    "special": 0,
+    "year_start": 2014,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2014 Regular Session",
+    "session_hash": "6c6b1f0e2260adf66992440aded2fde9",
+    "session_id": 1043,
+    "total_bills": 5106,
+    "year_end": 2014
+  },
+  "1048": {
+    "session_id": 1048,
+    "year_end": 2013,
+    "total_bills": 48,
+    "special": 1,
+    "year_start": 2013,
+    "session_name": "Special Session",
+    "state_id": 36,
+    "name": "2013 Special Session",
+    "session_hash": "8a2840d30f7330f7e7ede82d006290f5"
+  },
+  "1109": {
+    "session_id": 1109,
+    "total_bills": 2292,
+    "year_end": 2015,
+    "special": 0,
+    "year_start": 2015,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2015 Regular Session",
+    "session_hash": "f6ddb5048268cb514db52dbe8dbc8c74"
+  },
+  "1171": {
+    "session_id": 1171,
+    "year_end": 2016,
+    "total_bills": 4235,
+    "special": 0,
+    "year_start": 2016,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2016 Regular Session",
+    "session_hash": "fba8abe76261eda7729ebda9b211c984"
+  },
+  "1260": {
+    "session_id": 1260,
+    "year_end": 2017,
+    "total_bills": 2525,
+    "special": 0,
+    "year_start": 2017,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2017 Regular Session",
+    "session_hash": "06d5d556a0db2fd6b09b7461bd3393b0"
+  },
+  "1471": {
+    "special": 0,
+    "year_start": 2018,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2018 Regular Session",
+    "session_hash": "22b5443c8b674d2fae1b4c365941b8a6",
+    "session_id": 1471,
+    "year_end": 2018,
+    "total_bills": 4572
+  },
+  "1476": {
+    "year_start": 2017,
+    "session_name": "1st Special Session",
+    "state_id": 36,
+    "name": "2017 Special Session",
+    "session_hash": "a269c663088955b18c8d68f9220c89a6",
+    "session_id": 1476,
+    "year_end": 2017,
+    "total_bills": 199,
+    "special": 1
+  },
+  "1538": {
+    "special": 1,
+    "year_start": 2018,
+    "session_name": "2nd Special Session",
+    "state_id": 36,
+    "name": "2017 Second Special Session",
+    "session_hash": "02474d51a9b6a1a1611ed492a5bce7b3",
+    "session_id": 1538,
+    "year_end": 2018,
+    "total_bills": 58
+  },
+  "1580": {
+    "special": 0,
+    "year_start": 2019,
+    "session_name": "Regular Session",
+    "state_id": 36,
+    "name": "2019 Regular Session",
+    "session_hash": "913dde3a4adf946a9ad56fed0c8fcc53",
+    "session_id": 1580,
+    "total_bills": 2946,
+    "year_end": 2019
+  },
+  "1712": {
+    "last_update": {
+      "_seconds": 1583344333,
+      "_nanoseconds": 531000000
+    },
+    "state_id": 36,
+    "name": "2020 Regular Session",
+    "session_hash": "45566a208cc8998180625587f45c2e2d",
+    "session_id": 1712,
+    "year_end": 2020,
+    "total_bills": 5213,
+    "special": 0,
+    "year_start": 2020,
+    "session_name": "Regular Session"
+  },
+  "__type__": "collection"
+}

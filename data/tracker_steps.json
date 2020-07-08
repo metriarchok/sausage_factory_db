@@ -1,0 +1,409 @@
+{
+  "__type__": "collection",
+  "exchange_and_joint_action": {
+    "display_name": "Exchange and Joint Action",
+    "path_d": "m 0,0 c -9.369,-0.146 -19.235,4.258 -27.847,11.92 -7.759,6.905 -13.673,15.345 -19.847,23.571 -1.745,2.324 -3.491,4.652 -5.121,7.055 -0.339,0.5 -0.497,1.584 -0.192,1.994 7.775,10.445 14.777,21.543 24.858,30.078 7.887,6.678 16.634,11.543 27.141,12.562 C 20.807,89.294 40.974,74.62 45.722,53.198 51.814,25.709 30.393,-0.559 0,0 m 70.282,44.621 10.747,7.44 c -0.095,0.907 -0.185,1.813 -0.312,2.723 -7.704,54.868 -68.512,84.545 -116.528,56.89 -13.368,-7.7 -24.139,-18.22 -33.389,-30.424 -1.694,-2.233 -3.376,-4.474 -5.258,-6.969 -0.883,1.158 -1.598,2.059 -2.273,2.988 -6.355,8.727 -13.268,16.952 -21.555,23.936 -18.461,15.559 -39.399,23.395 -63.784,20.299 -36.662,-4.654 -64.321,-34.219 -67.966,-69.587 l 10.538,-7.296 -10.659,-7.38 c 0.083,-0.955 0.162,-1.91 0.28,-2.87 6.23,-50.533 57.362,-82.376 107.043,-63.892 19.259,7.165 32.705,21.513 44.519,37.631 0.294,0.401 0.267,1.382 -0.024,1.813 -6.583,9.763 -13.224,19.488 -20.009,29.446 -0.997,-1.339 -1.875,-2.525 -2.761,-3.705 -6.224,-8.288 -12.191,-16.774 -19.985,-23.763 -11.029,-9.89 -23.871,-13.89 -38.361,-11.164 -17.83,3.354 -29.776,14.096 -34.544,31.526 -4.834,17.672 0.132,33.212 14.218,44.924 13.924,11.578 29.723,13.523 46.296,5.821 10.745,-4.993 18.932,-13.159 25.819,-22.576 9.272,-12.679 18.297,-25.538 27.342,-38.381 7.823,-11.108 15.302,-22.452 25.013,-32.111 19.402,-19.294 42.618,-27.628 69.731,-23.851 36.748,5.12 63.767,35.327 66.772,70.979 z",
+    "action": "Exchange and Joint Action",
+    "key": "exchange_and_joint_action",
+    "output_paths": [
+      {
+        "target_step_id": "introduced_in_house",
+        "output_path_type": "common",
+        "explanation": "",
+        "output_path_id": "exchange_and_joint_action__introduced_in_house",
+        "path_d": "",
+        "display_name": ""
+      }
+    ],
+    "id": "exchange_and_joint_action",
+    "chamber": "Joint",
+    "path_id": "path_exchange_and_joint_action",
+    "updatedAt": {
+      "_seconds": 1579133155,
+      "_nanoseconds": 355000000
+    },
+    "g_transform": "translate(770.7344,385.7363)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579133155,
+      "_nanoseconds": 355000000
+    },
+    "body_id": "117",
+    "g_id": "g_exchange_and_joint_action"
+  },
+  "house_committee_report_and_vote": {
+    "key": "house_committee_report_and_vote",
+    "output_paths": [
+      {
+        "target_step_id": "",
+        "output_path_type": "",
+        "explanation": "",
+        "output_path_id": "",
+        "path_d": "",
+        "display_name": ""
+      }
+    ],
+    "id": "house_committee_report_and_vote",
+    "chamber": "House",
+    "path_id": "path_house_committee_report_and_vote",
+    "updatedAt": {
+      "_seconds": 1579131917,
+      "_nanoseconds": 588000000
+    },
+    "g_transform": "translate(265.7681,163)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131917,
+      "_nanoseconds": 588000000
+    },
+    "body_id": "79",
+    "g_id": "g_house_committee_report_and_vote",
+    "display_name": "House Committee Report and Calendar for Vote",
+    "path_d": "M 0,0 H 158.689 V 98.318 H 0 V 54.765 L 8.625,48.728 0.411,43.554 Z",
+    "action": "Committee Report & Calendar for Vote"
+  },
+  "house_committee_vote": {
+    "createdAt": {
+      "_seconds": 1579131726,
+      "_nanoseconds": 353000000
+    },
+    "body_id": "79",
+    "g_id": "g_house_committee_vote",
+    "display_name": "House Committee Vote to Pass",
+    "path_d": "M 0,0 H 43.184 L 49.138,-8.313 54.674,0 H 97.456 V -166.451 H 50.671 C 22.687,-166.451 0,-143.765 0,-115.78 Z",
+    "action": "Committee Vote",
+    "id": "house_committee_vote",
+    "key": "house_committee_vote",
+    "chamber": "House",
+    "path_id": "path_house_committee_vote",
+    "updatedAt": {
+      "_seconds": 1579131726,
+      "_nanoseconds": 353000000
+    },
+    "g_transform": "translate(164.8623,330.3135)",
+    "class": "tracker_path_main"
+  },
+  "house_full_vote": {
+    "display_name": "House Full Vote",
+    "path_d": "M 0,0 H 43.984 L 49.159,9.486 54.333,0 H 97.456 V 145.752 H 60.382 C 27.034,145.752 0,118.718 0,85.37 Z",
+    "action": "Full Vote",
+    "id": "house_full_vote",
+    "key": "house_full_vote",
+    "chamber": "House",
+    "path_id": "path_house_full_vote",
+    "updatedAt": {
+      "_seconds": 1579133056,
+      "_nanoseconds": 478000000
+    },
+    "g_transform": "translate(438.688,330.7451)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579133056,
+      "_nanoseconds": 478000000
+    },
+    "body_id": "79",
+    "g_id": "g_house_full_vote"
+  },
+  "house_reading_and_debate": {
+    "body_id": "79",
+    "g_id": "g_house_reading_and_debate",
+    "display_name": "House Reading and Debate",
+    "path_d": "m 0,0 h -98.012 v -65.546 h -9.794 v -43.122 l 9.137,-6.037 -9.137,-5.175 v -43.122 h 53.512 c 29.985,0 54.294,22.947 54.294,51.254 z",
+    "action": "Reading and Debate",
+    "key": "house_reading_and_debate",
+    "id": "house_reading_and_debate",
+    "chamber": "House",
+    "path_id": "path_house_reading_and_debate",
+    "updatedAt": {
+      "_seconds": 1579132764,
+      "_nanoseconds": 998000000
+    },
+    "g_transform": "translate(536.5752,326.8643)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579132764,
+      "_nanoseconds": 998000000
+    }
+  },
+  "in_house_committee": {
+    "g_transform": "translate(164,334.626)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131570,
+      "_nanoseconds": 103000000
+    },
+    "body_id": "79",
+    "g_id": "g_in_house_committee",
+    "display_name": "In House Committee",
+    "path_d": "m 0,0 v 137.128 h 43.122 l 5.175,-7.762 6.037,7.762 H 97.456 L 97.456,0 Z",
+    "action": "In Committee",
+    "id": "in_house_committee",
+    "key": "in_house_committee",
+    "chamber": "House",
+    "path_id": "path_in_house_committee",
+    "updatedAt": {
+      "_seconds": 1579131570,
+      "_nanoseconds": 103000000
+    }
+  },
+  "in_senate_committee": {
+    "id": "in_senate_committee",
+    "key": "in_senate_committee",
+    "chamber": "Senate",
+    "path_id": "path_in_senate_committee",
+    "updatedAt": {
+      "_seconds": 1579131618,
+      "_nanoseconds": 335000000
+    },
+    "g_transform": "translate(1229.1162,334.626)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131618,
+      "_nanoseconds": 335000000
+    },
+    "body_id": "80",
+    "g_id": "g_in_senate_committee",
+    "display_name": "In Senate Committee",
+    "path_d": "m 0,0 v 137.128 h -43.122 l -5.175,-7.762 -6.037,7.762 H -97.456 L -97.456,0 Z",
+    "action": "In Committee"
+  },
+  "introduced_in_house": {
+    "chamber": "House",
+    "path_id": "path_introduced_in_house",
+    "updatedAt": {
+      "_seconds": 1579151156,
+      "_nanoseconds": 798000000
+    },
+    "g_transform": "translate(326.1392,565.7603)",
+    "class": "tracker_path_main",
+    "body_id": "79",
+    "g_id": "g_introduced_in_house",
+    "explanation": "A new bill starts it's exciting journey through the legislative process in the House of Representatives",
+    "display_name": "Introduced in House",
+    "path_d": "M 0,0 V 97.456 H 275.981 V 40.582 C 275.981,18.169 256.239,0 231.885,0 Z",
+    "action": "Introduced",
+    "key": "introduced_in_house",
+    "id": "introduced_in_house",
+    "chamber_id": 0
+  },
+  "introduced_in_senate": {
+    "display_name": "Introduced in Senate",
+    "path_d": "M 0,0 V 97.456 H -275.981 V 40.582 C -275.981,18.169 -256.238,0 -231.885,0 Z",
+    "action": "Introduced",
+    "id": "introduced_in_senate",
+    "key": "introduced_in_senate",
+    "chamber": "Senate",
+    "path_id": "path_introduced_in_senate",
+    "updatedAt": {
+      "_seconds": 1579131354,
+      "_nanoseconds": 314000000
+    },
+    "g_transform": "translate(1066.9766,565.7603)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131354,
+      "_nanoseconds": 314000000
+    },
+    "body_id": "80",
+    "g_id": "g_introduced_in_senate"
+  },
+  "rZE9cO5NyqU7lFGb6zlh": {
+    "updatedAt": {
+      "_seconds": 1579653690,
+      "_nanoseconds": 546000000
+    },
+    "createdAt": {
+      "_seconds": 1579653690,
+      "_nanoseconds": 546000000
+    },
+    "id": "rZE9cO5NyqU7lFGb6zlh"
+  },
+  "referred_to_house_committee": {
+    "path_id": "path_referred_to_house_committee",
+    "updatedAt": {
+      "_seconds": 1579131452,
+      "_nanoseconds": 320000000
+    },
+    "g_transform": "translate(322.6895,565.7603)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131452,
+      "_nanoseconds": 320000000
+    },
+    "body_id": "79",
+    "g_id": "g_referred_to_house_committee",
+    "display_name": "Referred to House Committee",
+    "path_d": "m 0,0 h -60.371 v -89.694 h -97.456 V 47.028 c 0,27.851 22.577,50.428 50.428,50.428 H 0 l -0.431,-44.415 -8.625,-4.313 8.625,-5.174 z",
+    "action": "Referred to Committee",
+    "id": "referred_to_house_committee",
+    "key": "referred_to_house_committee",
+    "chamber": "House"
+  },
+  "referred_to_senate_committee": {
+    "chamber": "Senate",
+    "path_id": "path_referred_to_senate_committee",
+    "updatedAt": {
+      "_seconds": 1579131508,
+      "_nanoseconds": 732000000
+    },
+    "g_transform": "translate(1070.4268,565.7603)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131508,
+      "_nanoseconds": 732000000
+    },
+    "body_id": "80",
+    "g_id": "g_referred_to_senate_committee",
+    "display_name": "Referred to Senate Committee",
+    "path_d": "m 0,0 h 60.371 v -89.694 h 97.456 V 47.028 c 0,27.851 -22.578,50.428 -50.429,50.428 H 0 L 0.431,53.041 9.056,48.728 0.431,43.554 Z",
+    "action": "Referred to Committee",
+    "key": "referred_to_senate_committee",
+    "id": "referred_to_senate_committee"
+  },
+  "senate_committee_report_and_vote": {
+    "chamber": "Senate",
+    "path_id": "path_senate_committee_report_and_vote",
+    "updatedAt": {
+      "_seconds": 1579132001,
+      "_nanoseconds": 294000000
+    },
+    "g_transform": "translate(1127.3477,163)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579132001,
+      "_nanoseconds": 294000000
+    },
+    "body_id": "80",
+    "g_id": "g_senate_committee_report_and_vote",
+    "display_name": "Senate Committee Report and Calendar for Vote",
+    "path_d": "M 0,0 H -158.689 V 98.318 H 0 V 54.765 l -8.624,-6.037 8.214,-5.174 z",
+    "action": "Committee Report & Calendar for Vote",
+    "id": "senate_committee_report_and_vote",
+    "key": "senate_committee_report_and_vote"
+  },
+  "senate_committee_vote": {
+    "g_transform": "translate(1228.2539,330.3135)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579131836,
+      "_nanoseconds": 833000000
+    },
+    "body_id": "80",
+    "g_id": "g_senate_committee_vote",
+    "display_name": "Senate Committee Vote to Pass",
+    "path_d": "M 0,0 H -43.227 L -48.254,-8.313 -54.485,0 h -42.971 v -166.451 h 46.785 c 27.984,0 50.671,22.686 50.671,50.671 z",
+    "action": "Committee Vote",
+    "id": "senate_committee_vote",
+    "key": "senate_committee_vote",
+    "chamber": "Senate",
+    "path_id": "path_senate_committee_vote",
+    "updatedAt": {
+      "_seconds": 1579131836,
+      "_nanoseconds": 833000000
+    }
+  },
+  "senate_full_vote": {
+    "chamber": "Senate",
+    "path_id": "path_senate_full_vote",
+    "updatedAt": {
+      "_seconds": 1579133008,
+      "_nanoseconds": 578000000
+    },
+    "g_transform": "translate(954.4277,330.7451)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579133008,
+      "_nanoseconds": 578000000
+    },
+    "body_id": "80",
+    "g_id": "g_senate_full_vote",
+    "display_name": "Senate Full Vote",
+    "path_d": "M 0,0 H -43.984 L -49.159,9.486 -54.333,0 h -43.122 v 145.752 h 37.073 C -27.034,145.752 0,118.718 0,85.37 Z",
+    "action": "Full Vote",
+    "id": "senate_full_vote",
+    "key": "senate_full_vote"
+  },
+  "senate_reading_and_debate": {
+    "id": "senate_reading_and_debate",
+    "key": "senate_reading_and_debate",
+    "chamber": "Senate",
+    "path_id": "path_senate_reading_and_debate",
+    "updatedAt": {
+      "_seconds": 1579132718,
+      "_nanoseconds": 593000000
+    },
+    "g_transform": "translate(856.541,326.8643)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579132718,
+      "_nanoseconds": 593000000
+    },
+    "body_id": "80",
+    "g_id": "g_senate_reading_and_debate",
+    "display_name": "Senate Reading and Debate",
+    "path_d": "m 0,0 h 98.012 v -65.546 h 9.794 v -43.122 l -9.137,-6.037 9.137,-5.175 v -43.122 H 54.294 C 24.309,-163.002 0,-140.055 0,-111.748 Z",
+    "action": "Reading and Debate"
+  },
+  "sent_to_governor": {
+    "path_id": "path_sent_to_governor",
+    "updatedAt": {
+      "_seconds": 1579133243,
+      "_nanoseconds": 467000000
+    },
+    "g_transform": "translate(729.3125,318)",
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579133243,
+      "_nanoseconds": 467000000
+    },
+    "body_id": "10001",
+    "g_id": "g_sent_to_governor",
+    "display_name": "Sent to Governor",
+    "path_d": "M 0,0 C 0,11.425 -5.992,21.445 -15,27.106 V 51 H -48 V 27.708 C -57.562,22.175 -64,11.843 -64,0 c 0,-11.843 6.438,-22.175 16,-27.708 V -80 h 33 v 52.894 C -5.992,-21.445 0,-11.425 0,0",
+    "action": "Sent to Governor",
+    "id": "sent_to_governor",
+    "key": "sent_to_governor",
+    "chamber": "Governor"
+  },
+  "signed_to_law": {
+    "body_id": "10001",
+    "g_id": "g_signed_to_law",
+    "display_name": "Signed to Law by Governor",
+    "path_d": "m 680.812,158.5 h 33 v -104 h -33 z",
+    "action": "Signed to Law",
+    "id": "signed_to_law",
+    "key": "signed_to_law",
+    "chamber": "Governor",
+    "path_id": "path_signed_to_law",
+    "updatedAt": {
+      "_seconds": 1579206416,
+      "_nanoseconds": 276000000
+    },
+    "class": "tracker_path_main",
+    "createdAt": {
+      "_seconds": 1579206416,
+      "_nanoseconds": 276000000
+    }
+  },
+  "veto_by_governor": {
+    "updatedAt": {
+      "_seconds": 1579156591,
+      "_nanoseconds": 567000000
+    },
+    "g_transform": "translate(682.875,232.5)",
+    "class": "tracker_path_final",
+    "createdAt": {
+      "_seconds": 1579156591,
+      "_nanoseconds": 567000000
+    },
+    "body_id": "10001",
+    "g_id": "g_veto_by_governor",
+    "display_name": "Vetoed by Governor",
+    "path_d": "M 0,0 H 29 L 48.5,-19.5 V -50 L 29.25,-69.25 H 0 l -19.625,19.625 V -20 Z",
+    "action": "Veto",
+    "id": "veto_by_governor",
+    "key": "veto_by_governor",
+    "chamber": "Governor",
+    "path_id": "path_veto_by_governor"
+  }
+}

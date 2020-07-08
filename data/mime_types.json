@@ -1,0 +1,33 @@
+{
+  "1": {
+    "mime_id": 1,
+    "mime_type": "text/html",
+    "is_binary": 0
+  },
+  "2": {
+    "is_binary": 1,
+    "mime_id": 2,
+    "mime_type": "application/pdf"
+  },
+  "3": {
+    "is_binary": 1,
+    "mime_id": 3,
+    "mime_type": "application/wpd"
+  },
+  "4": {
+    "is_binary": 1,
+    "mime_id": 4,
+    "mime_type": "application/doc"
+  },
+  "5": {
+    "is_binary": 1,
+    "mime_id": 5,
+    "mime_type": "application/rtf"
+  },
+  "6": {
+    "mime_id": 6,
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "is_binary": 1
+  },
+  "__type__": "collection"
+}

@@ -1,0 +1,51 @@
+{
+  "1": {
+    "id": 1,
+    "progress_desc": "Introduced"
+  },
+  "2": {
+    "id": 2,
+    "progress_desc": "Engrossed"
+  },
+  "3": {
+    "progress_desc": "Enrolled",
+    "id": 3
+  },
+  "4": {
+    "id": 4,
+    "progress_desc": "Passed"
+  },
+  "5": {
+    "id": 5,
+    "progress_desc": "Vetoed"
+  },
+  "6": {
+    "id": 6,
+    "progress_desc": "Failed"
+  },
+  "7": {
+    "progress_desc": "Override",
+    "id": 7
+  },
+  "8": {
+    "id": 8,
+    "progress_desc": "Chaptered"
+  },
+  "9": {
+    "id": 9,
+    "progress_desc": "Refer"
+  },
+  "10": {
+    "id": 10,
+    "progress_desc": "Report Pass"
+  },
+  "11": {
+    "id": 11,
+    "progress_desc": "Report DNP"
+  },
+  "12": {
+    "id": 12,
+    "progress_desc": "Draft"
+  },
+  "__type__": "collection"
+}

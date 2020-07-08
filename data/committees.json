@@ -1,0 +1,252 @@
+{
+  "0": {
+    "committee_name": "(n/a)",
+    "committee_id": "0"
+  },
+  "1196": {
+    "committee_id": 1196,
+    "committee_name": "Agriculture and Rural Development",
+    "committee_body_id": 79
+  },
+  "1197": {
+    "committee_id": 1197,
+    "committee_name": "Appropriations and Budget",
+    "committee_body_id": 79
+  },
+  "1205": {
+    "committee_id": 1205,
+    "committee_name": "Common Education",
+    "committee_body_id": 79
+  },
+  "1210": {
+    "committee_id": 1210,
+    "committee_name": "Higher Education and Career Tech",
+    "committee_body_id": 79
+  },
+  "1213": {
+    "committee_body_id": 79,
+    "committee_id": 1213,
+    "committee_name": "Judiciary"
+  },
+  "1214": {
+    "committee_name": "Public Health",
+    "committee_body_id": 79,
+    "committee_id": 1214
+  },
+  "1215": {
+    "committee_body_id": 79,
+    "committee_id": 1215,
+    "committee_name": "Public Safety"
+  },
+  "1216": {
+    "committee_id": 1216,
+    "committee_name": "Rules",
+    "committee_body_id": 79
+  },
+  "1217": {
+    "committee_body_id": 79,
+    "committee_id": 1217,
+    "committee_name": "Transportation"
+  },
+  "1219": {
+    "committee_id": 1219,
+    "committee_name": "Wildlife",
+    "committee_body_id": 79
+  },
+  "1221": {
+    "committee_id": 1221,
+    "committee_name": "Appropriations",
+    "committee_body_id": 80
+  },
+  "1225": {
+    "committee_body_id": 80,
+    "committee_id": 1225,
+    "committee_name": "Education"
+  },
+  "1227": {
+    "committee_body_id": 80,
+    "committee_id": 1227,
+    "committee_name": "Finance"
+  },
+  "1228": {
+    "committee_name": "General Government",
+    "committee_body_id": 80,
+    "committee_id": 1228
+  },
+  "1229": {
+    "committee_body_id": 80,
+    "committee_id": 1229,
+    "committee_name": "Health and Human Services"
+  },
+  "1230": {
+    "committee_body_id": 80,
+    "committee_id": 1230,
+    "committee_name": "Judiciary"
+  },
+  "1232": {
+    "committee_id": 1232,
+    "committee_name": "Retirement and Insurance",
+    "committee_body_id": 80
+  },
+  "1233": {
+    "committee_id": 1233,
+    "committee_name": "Rules",
+    "committee_body_id": 80
+  },
+  "1235": {
+    "committee_id": 1235,
+    "committee_name": "Transportation",
+    "committee_body_id": 80
+  },
+  "1236": {
+    "committee_id": 1236,
+    "committee_name": "Veterans and Military Affairs",
+    "committee_body_id": 80
+  },
+  "1279": {
+    "committee_id": 1279,
+    "committee_name": "Appropriations Education Sub",
+    "committee_body_id": 80
+  },
+  "1280": {
+    "committee_name": "Appropriations General Government and Transportation Sub",
+    "committee_body_id": 80,
+    "committee_id": 1280
+  },
+  "1281": {
+    "committee_name": "Appropriations Health and Human Services Sub",
+    "committee_body_id": 80,
+    "committee_id": 1281
+  },
+  "1282": {
+    "committee_body_id": 80,
+    "committee_id": 1282,
+    "committee_name": "Appropriations Natural Resources and Regulatory Services Sub"
+  },
+  "1283": {
+    "committee_body_id": 80,
+    "committee_id": 1283,
+    "committee_name": "Appropriations Public Safety and Judiciary Sub"
+  },
+  "1824": {
+    "committee_name": "Energy",
+    "committee_body_id": 80,
+    "committee_id": 1824
+  },
+  "1825": {
+    "committee_id": 1825,
+    "committee_name": "Public Safety",
+    "committee_body_id": 80
+  },
+  "1828": {
+    "committee_id": 1828,
+    "committee_name": "Insurance",
+    "committee_body_id": 79
+  },
+  "2608": {
+    "committee_name": "Appropriations and Budget",
+    "committee_body_id": 117,
+    "committee_id": 2608
+  },
+  "3269": {
+    "committee_body_id": 79,
+    "committee_id": 3269,
+    "committee_name": "Administrative Rules"
+  },
+  "3271": {
+    "committee_body_id": 79,
+    "committee_id": 3271,
+    "committee_name": "Appropriations and Budget Education Subcommittee"
+  },
+  "3272": {
+    "committee_id": 3272,
+    "committee_name": "Appropriations and Budget Natural Resources and Regulatory Services Subcommittee",
+    "committee_body_id": 79
+  },
+  "3275": {
+    "committee_id": 3275,
+    "committee_name": "Children, Youth, and Family Services",
+    "committee_body_id": 79
+  },
+  "3276": {
+    "committee_name": "County and Municipal Government",
+    "committee_body_id": 79,
+    "committee_id": 3276
+  },
+  "3280": {
+    "committee_id": 3280,
+    "committee_name": "Energy and Natural Resources",
+    "committee_body_id": 79
+  },
+  "3286": {
+    "committee_name": "Utilities",
+    "committee_body_id": 79,
+    "committee_id": 3286
+  },
+  "3288": {
+    "committee_id": 3288,
+    "committee_name": "Appropriations and Budget General Government Subcommittee",
+    "committee_body_id": 79
+  },
+  "3299": {
+    "committee_id": 3299,
+    "committee_name": "Appropriations and Budget Transportation Subcommittee",
+    "committee_body_id": 79
+  },
+  "3309": {
+    "committee_name": "Appropriations and Budget Health Subcommittee",
+    "committee_body_id": 79,
+    "committee_id": 3309
+  },
+  "3314": {
+    "committee_id": 3314,
+    "committee_name": "Appropriations and Budget Public Safety Subcommittee",
+    "committee_body_id": 79
+  },
+  "3632": {
+    "committee_body_id": 80,
+    "committee_id": 3632,
+    "committee_name": "Agriculture and Wildlife"
+  },
+  "3633": {
+    "committee_id": 3633,
+    "committee_name": "Business, Commerce and Tourism",
+    "committee_body_id": 80
+  },
+  "3646": {
+    "committee_id": 3646,
+    "committee_name": "Banking, Financial Services and Pensions",
+    "committee_body_id": 79
+  },
+  "3647": {
+    "committee_body_id": 79,
+    "committee_id": 3647,
+    "committee_name": "Appropriations and Budget Finance Subcommittee"
+  },
+  "3651": {
+    "committee_id": 3651,
+    "committee_name": "Health Services and Long-Term Care",
+    "committee_body_id": 79
+  },
+  "3979": {
+    "committee_name": "Business and Commerce",
+    "committee_body_id": 79,
+    "committee_id": 3979
+  },
+  "3980": {
+    "committee_id": 3980,
+    "committee_name": "Government Efficiency",
+    "committee_body_id": 79
+  },
+  "3988": {
+    "committee_id": 3988,
+    "committee_name": "Tourism",
+    "committee_body_id": 79
+  },
+  "4015": {
+    "committee_body_id": 79,
+    "committee_id": 4015,
+    "committee_name": "Appropriations and Budget Non-Appropriated Agencies Subcommittee"
+  },
+  "__type__": "collection"
+}

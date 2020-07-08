@@ -1,0 +1,5173 @@
+{
+  "__type__": "collection",
+  "1281073_hi-0": {
+    "id": "1281073_hi-0",
+    "data": {
+      "action": "First Reading",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1281073"
+  },
+  "1281073_hi-1": {
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-04",
+      "chamber_id": 79,
+      "action": "Authored by Representative Lepak"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Lepak",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281073",
+    "id": "1281073_hi-1"
+  },
+  "1281073_hi-2": {
+    "id": "1281073_hi-2",
+    "data": {
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 79,
+      "action": "Second Reading referred to County and Municipal Government",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to County and Municipal Government",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281073"
+  },
+  "1281073_pr-0": {
+    "title": "Introduced",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281073",
+    "id": "1281073_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": ""
+  },
+  "1281073_pr-1": {
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281073",
+    "id": "1281073_pr-1"
+  },
+  "1281073_tx-0": {
+    "title": "Introduced",
+    "date": "2019-01-16",
+    "description": "https://legiscan.com/OK/text/HB1289/id/2062364",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1281073",
+    "id": "1281073_tx-0",
+    "data": {
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 52276,
+      "type": "Introduced",
+      "date": "2019-01-16",
+      "doc_id": 2062364,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB1289/id/2062364",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB1289%20INT.PDF"
+    },
+    "chamber": ""
+  },
+  "1281084_hi-0": {
+    "bill_id": "1281084",
+    "id": "1281084_hi-0",
+    "data": {
+      "action": "First Reading",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "<p><strong><u>First Reading in Senate</u></strong></p><p>Senate reads bill...</p>",
+    "updatedAt": {
+      "_seconds": 1580678731,
+      "_nanoseconds": 530000000
+    },
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": ""
+  },
+  "1281084_hi-1": {
+    "chamber": "S",
+    "title": "Authored by Senator Pugh",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-1",
+    "data": {
+      "importance": 0,
+      "date": "2019-02-04",
+      "chamber_id": 80,
+      "action": "Authored by Senator Pugh",
+      "chamber": "S"
+    }
+  },
+  "1281084_hi-10": {
+    "data": {
+      "chamber_id": 79,
+      "action": "Second Reading referred to Insurance",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-03-19"
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Insurance",
+    "date": "2019-03-19",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 18,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-10"
+  },
+  "1281084_hi-11": {
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-11",
+    "data": {
+      "importance": 1,
+      "date": "2019-03-27",
+      "chamber_id": 79,
+      "action": "CR; Do Pass Insurance Committee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass Insurance Committee",
+    "date": "2019-03-27",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 21
+  },
+  "1281084_hi-12": {
+    "data": {
+      "importance": 0,
+      "date": "2019-04-04",
+      "chamber_id": 79,
+      "action": "General Order",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "General Order",
+    "date": "2019-04-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 24,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-12"
+  },
+  "1281084_hi-13": {
+    "eventIndex": 25,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-13",
+    "data": {
+      "action": "House Rule suspended",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "House Rule suspended",
+    "date": "2019-04-04",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281084_hi-14": {
+    "id": "1281084_hi-14",
+    "data": {
+      "action": "Amended",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Amended",
+    "date": "2019-04-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 26,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-15": {
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-15",
+    "data": {
+      "action": "Third Reading, Measure passed: Ayes: 93 Nays: 0",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Third Reading, Measure passed: Ayes: 93 Nays: 0",
+    "date": "2019-04-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 27
+  },
+  "1281084_hi-16": {
+    "data": {
+      "chamber_id": 79,
+      "action": "Referred for engrossment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-04"
+    },
+    "chamber": "H",
+    "title": "Referred for engrossment",
+    "date": "2019-04-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 28,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-16"
+  },
+  "1281084_hi-17": {
+    "eventIndex": 30,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-17",
+    "data": {
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-08",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Engrossed, signed, to Senate",
+    "date": "2019-04-08",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281084_hi-18": {
+    "data": {
+      "action": "HAs read",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-08",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "HAs read",
+    "date": "2019-04-08",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 31,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-18"
+  },
+  "1281084_hi-19": {
+    "id": "1281084_hi-19",
+    "data": {
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80,
+      "action": "HAs adopted",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "HAs adopted",
+    "date": "2019-05-01",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 33,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-2": {
+    "title": "Second Reading referred to Health and Human Services",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-2",
+    "data": {
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281084_hi-20": {
+    "eventType": "history",
+    "eventIndex": 34,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-20",
+    "data": {
+      "action": "Measure passed: Ayes: 42 Nays: 0",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Measure passed: Ayes: 42 Nays: 0",
+    "date": "2019-05-01",
+    "description": ""
+  },
+  "1281084_hi-21": {
+    "title": "Referred for enrollment",
+    "date": "2019-05-01",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 35,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-21",
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80,
+      "action": "Referred for enrollment"
+    },
+    "chamber": "S"
+  },
+  "1281084_hi-22": {
+    "eventIndex": 37,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-22",
+    "data": {
+      "importance": 1,
+      "date": "2019-05-02",
+      "chamber_id": 80,
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Enrolled, to House",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281084_hi-23": {
+    "data": {
+      "importance": 0,
+      "date": "2019-05-02",
+      "chamber_id": 79,
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Signed, returned to Senate",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 38,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-23"
+  },
+  "1281084_hi-24": {
+    "data": {
+      "importance": 0,
+      "date": "2019-05-02",
+      "chamber_id": 80,
+      "action": "Sent to Governor",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Sent to Governor",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 39,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-24"
+  },
+  "1281084_hi-25": {
+    "id": "1281084_hi-25",
+    "data": {
+      "importance": 1,
+      "date": "2019-05-07",
+      "chamber_id": 80,
+      "action": "Approved by Governor 05/07/2019",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Approved by Governor 05/07/2019",
+    "date": "2019-05-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 42,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-3": {
+    "id": "1281084_hi-3",
+    "data": {
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-11",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Reported Do Pass Health and Human Services committee; CR filed",
+    "date": "2019-02-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-4": {
+    "id": "1281084_hi-4",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-04",
+      "chamber_id": 80,
+      "action": "Coauthored by Representative Moore (principal House author)",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Coauthored by Representative Moore (principal House author)",
+    "date": "2019-03-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-5": {
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-05",
+      "chamber_id": 80,
+      "action": "General Order, Considered"
+    },
+    "chamber": "S",
+    "title": "General Order, Considered",
+    "date": "2019-03-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-5"
+  },
+  "1281084_hi-6": {
+    "title": "Measure passed: Ayes: 46 Nays: 0",
+    "date": "2019-03-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 11,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-6",
+    "data": {
+      "chamber_id": 80,
+      "action": "Measure passed: Ayes: 46 Nays: 0",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-05"
+    },
+    "chamber": "S"
+  },
+  "1281084_hi-7": {
+    "id": "1281084_hi-7",
+    "data": {
+      "action": "Referred for engrossment",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-05",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Referred for engrossment",
+    "date": "2019-03-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 12,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_hi-8": {
+    "title": "Engrossed to House",
+    "date": "2019-03-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 14,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_hi-8",
+    "data": {
+      "action": "Engrossed to House",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-03-06",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281084_hi-9": {
+    "id": "1281084_hi-9",
+    "data": {
+      "chamber_id": 79,
+      "action": "First Reading",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-06"
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2019-03-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 15,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_pr-0": {
+    "title": "Introduced",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": ""
+  },
+  "1281084_pr-1": {
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_pr-1"
+  },
+  "1281084_pr-2": {
+    "data": {
+      "event": 10,
+      "date": "2019-02-11"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-02-11",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 7,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_pr-2"
+  },
+  "1281084_pr-3": {
+    "id": "1281084_pr-3",
+    "data": {
+      "event": 2,
+      "date": "2019-03-06"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-06",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 16,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_pr-4": {
+    "data": {
+      "event": 9,
+      "date": "2019-03-19"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-03-19",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 19,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_pr-4"
+  },
+  "1281084_pr-5": {
+    "id": "1281084_pr-5",
+    "data": {
+      "event": 10,
+      "date": "2019-03-27"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-03-27",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 22,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_pr-6": {
+    "id": "1281084_pr-6",
+    "data": {
+      "event": 3,
+      "date": "2019-05-02"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 40,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_pr-7": {
+    "title": "Passed",
+    "date": "2019-05-07",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 43,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_pr-7",
+    "data": {
+      "event": 4,
+      "date": "2019-05-07"
+    },
+    "chamber": ""
+  },
+  "1281084_tx-0": {
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_tx-0",
+    "data": {
+      "doc_id": 2062386,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062386",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB443%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 53974,
+      "type": "Introduced",
+      "date": "2019-01-16"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-16",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062386"
+  },
+  "1281084_tx-1": {
+    "data": {
+      "type_id": 3,
+      "mime_id": 2,
+      "text_size": 94877,
+      "type": "Amended",
+      "date": "2019-03-27",
+      "doc_id": 2062387,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062387",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/SB443%20HFLR.PDF"
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-03-27",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062387",
+    "eventType": "text",
+    "eventIndex": 23,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_tx-1"
+  },
+  "1281084_tx-2": {
+    "data": {
+      "text_size": 92888,
+      "type": "Amended",
+      "date": "2019-02-12",
+      "doc_id": 2062388,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062388",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/SFLR/SB443%20SFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-02-12",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062388",
+    "eventType": "text",
+    "eventIndex": 8,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_tx-2"
+  },
+  "1281084_tx-3": {
+    "id": "1281084_tx-3",
+    "data": {
+      "date": "2019-03-06",
+      "doc_id": 2062389,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062389",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENGR/SB/SB443%20ENGR.PDF",
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 54516,
+      "type": "Engrossed"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-06",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062389",
+    "eventType": "text",
+    "eventIndex": 17,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_tx-4": {
+    "data": {
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 61110,
+      "type": "Engrossed",
+      "date": "2019-04-16",
+      "doc_id": 2062390,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062390",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20AMENDMENTS/Amendment%20&%20Engr/SB443%20HASB%20&%20ENGR.PDF"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-04-16",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062390",
+    "eventType": "text",
+    "eventIndex": 32,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_tx-4"
+  },
+  "1281084_tx-5": {
+    "title": "Enrolled",
+    "date": "2019-05-02",
+    "description": "https://legiscan.com/OK/text/SB443/id/2062391",
+    "eventType": "text",
+    "eventIndex": 41,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_tx-5",
+    "data": {
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB443/id/2062391",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENR/SB/SB443%20ENR.PDF",
+      "type_id": 5,
+      "mime_id": 2,
+      "text_size": 56170,
+      "type": "Enrolled",
+      "date": "2019-05-02",
+      "doc_id": 2062391
+    },
+    "chamber": ""
+  },
+  "1281084_vo-0": {
+    "id": "1281084_vo-0",
+    "data": {
+      "url": "https://legiscan.com/OK/rollcall/SB443/id/896715",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: THIRD READING",
+      "date": "2019-03-05",
+      "yea": 46,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/SB443_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 896715,
+      "absent": 2
+    },
+    "chamber": "S",
+    "title": "Senate: THIRD READING (Passed)",
+    "date": "2019-03-05",
+    "description": "yea: 46 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 13,
+    "time": "",
+    "bill_id": "1281084"
+  },
+  "1281084_vo-1": {
+    "title": "Senate: FOURTH READING (Passed)",
+    "date": "2019-05-01",
+    "description": "yea: 42 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 36,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_vo-1",
+    "data": {
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 896716,
+      "absent": 6,
+      "url": "https://legiscan.com/OK/rollcall/SB443/id/896716",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: FOURTH READING",
+      "date": "2019-05-01",
+      "yea": 42,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/SB443_VOTES.HTM",
+      "nay": 0
+    },
+    "chamber": "S"
+  },
+  "1281084_vo-2": {
+    "eventIndex": 20,
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_vo-2",
+    "data": {
+      "desc": "House: Insurance Committee: DO PASS",
+      "date": "2019-03-26",
+      "yea": 7,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB443_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896717,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/SB443/id/896717",
+      "passed": 1,
+      "total": 7,
+      "nv": 0
+    },
+    "chamber": "H",
+    "title": "House: Insurance Committee: DO PASS (Passed)",
+    "date": "2019-03-26",
+    "description": "yea: 7 nay: 0 nv: 0",
+    "eventType": "vote"
+  },
+  "1281084_vo-3": {
+    "time": "",
+    "bill_id": "1281084",
+    "id": "1281084_vo-3",
+    "data": {
+      "nv": 0,
+      "desc": "House: SUSPEND HOUSE RULES",
+      "date": "2019-04-04",
+      "yea": 94,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB443_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896718,
+      "absent": 7,
+      "url": "https://legiscan.com/OK/rollcall/SB443/id/896718",
+      "passed": 1,
+      "total": 101
+    },
+    "chamber": "H",
+    "title": "House: SUSPEND HOUSE RULES (Passed)",
+    "date": "2019-04-04",
+    "description": "yea: 94 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 29
+  },
+  "1281111_hi-0": {
+    "id": "1281111_hi-0",
+    "data": {
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1281111"
+  },
+  "1281111_hi-1": {
+    "id": "1281111_hi-1",
+    "data": {
+      "chamber_id": 80,
+      "action": "Authored by Senator Bice",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-04"
+    },
+    "chamber": "S",
+    "title": "Authored by Senator Bice",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281111"
+  },
+  "1281111_hi-2": {
+    "id": "1281111_hi-2",
+    "data": {
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-07",
+      "chamber_id": 80,
+      "action": "Second Reading referred to Business, Commerce and Tourism"
+    },
+    "chamber": "S",
+    "title": "Second Reading referred to Business, Commerce and Tourism",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281111"
+  },
+  "1281111_pr-0": {
+    "id": "1281111_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281111"
+  },
+  "1281111_pr-1": {
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281111",
+    "id": "1281111_pr-1",
+    "data": {
+      "event": 9,
+      "date": "2019-02-07"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "progress"
+  },
+  "1281111_tx-0": {
+    "bill_id": "1281111",
+    "id": "1281111_tx-0",
+    "data": {
+      "url": "https://legiscan.com/OK/text/SB905/id/2062465",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB905%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 54776,
+      "type": "Introduced",
+      "date": "2019-01-23",
+      "doc_id": 2062465,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-23",
+    "description": "https://legiscan.com/OK/text/SB905/id/2062465",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": ""
+  },
+  "1281143_hi-0": {
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-0",
+    "data": {
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 79,
+      "action": "First Reading"
+    },
+    "chamber": "H"
+  },
+  "1281143_hi-1": {
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-1",
+    "data": {
+      "chamber_id": 79,
+      "action": "Authored by Representative West (Tammy)",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-04"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative West (Tammy)",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281143_hi-10": {
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-10",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-14",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 16
+  },
+  "1281143_hi-11": {
+    "data": {
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-03-26",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Second Reading referred to Health and Human Services",
+    "date": "2019-03-26",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 20,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-11"
+  },
+  "1281143_hi-12": {
+    "data": {
+      "importance": 1,
+      "date": "2019-04-08",
+      "chamber_id": 80,
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Reported Do Pass Health and Human Services committee; CR filed",
+    "date": "2019-04-08",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 22,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-12"
+  },
+  "1281143_hi-13": {
+    "id": "1281143_hi-13",
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-17",
+      "chamber_id": 80,
+      "action": "General Order, Considered"
+    },
+    "chamber": "S",
+    "title": "General Order, Considered",
+    "date": "2019-04-17",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 25,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_hi-14": {
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-14",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-17",
+      "chamber_id": 80,
+      "action": "Measure passed: Ayes: 44 Nays: 0",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Measure passed: Ayes: 44 Nays: 0",
+    "date": "2019-04-17",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 26
+  },
+  "1281143_hi-15": {
+    "title": "Engrossed measure signed, returned to House",
+    "date": "2019-04-17",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 27,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-15",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-17",
+      "chamber_id": 80,
+      "action": "Engrossed measure signed, returned to House",
+      "chamber": "S"
+    },
+    "chamber": "S"
+  },
+  "1281143_hi-16": {
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-16",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-17",
+      "chamber_id": 79,
+      "action": "Referred for enrollment",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Referred for enrollment",
+    "date": "2019-04-17",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 28
+  },
+  "1281143_hi-17": {
+    "id": "1281143_hi-17",
+    "data": {
+      "chamber_id": 79,
+      "action": "Enrolled, signed, to Senate",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-04-18"
+    },
+    "chamber": "H",
+    "title": "Enrolled, signed, to Senate",
+    "date": "2019-04-18",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 30,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_hi-18": {
+    "title": "Enrolled measure signed, returned to House",
+    "date": "2019-04-22",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 33,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-18",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-22",
+      "chamber_id": 80,
+      "action": "Enrolled measure signed, returned to House",
+      "chamber": "S"
+    },
+    "chamber": "S"
+  },
+  "1281143_hi-19": {
+    "data": {
+      "chamber_id": 79,
+      "action": "Sent to Governor",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-22"
+    },
+    "chamber": "H",
+    "title": "Sent to Governor",
+    "date": "2019-04-22",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 34,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-19"
+  },
+  "1281143_hi-2": {
+    "data": {
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 79,
+      "action": "Second Reading referred to Health Services and Long-Term Care",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Health Services and Long-Term Care",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-2"
+  },
+  "1281143_hi-20": {
+    "title": "Approved by Governor 04/25/2019",
+    "date": "2019-04-25",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 35,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-20",
+    "data": {
+      "importance": 1,
+      "date": "2019-04-25",
+      "chamber_id": 79,
+      "action": "Approved by Governor 04/25/2019",
+      "chamber": "H"
+    },
+    "chamber": "H"
+  },
+  "1281143_hi-3": {
+    "data": {
+      "importance": 1,
+      "date": "2019-02-13",
+      "chamber_id": 79,
+      "action": "CR; Do Pass Health Services and Long-Term Care Committee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass Health Services and Long-Term Care Committee",
+    "date": "2019-02-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-3"
+  },
+  "1281143_hi-4": {
+    "bill_id": "1281143",
+    "id": "1281143_hi-4",
+    "data": {
+      "action": "General Order",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "General Order",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 10,
+    "time": ""
+  },
+  "1281143_hi-5": {
+    "id": "1281143_hi-5",
+    "data": {
+      "action": "Authored by Senator Rosino (principal Senate author)",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Authored by Senator Rosino (principal Senate author)",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 11,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_hi-6": {
+    "id": "1281143_hi-6",
+    "data": {
+      "action": "Amended",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Amended",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 12,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_hi-7": {
+    "eventIndex": 13,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-7",
+    "data": {
+      "action": "Third Reading, Measure passed: Ayes: 95 Nays: 1",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Third Reading, Measure passed: Ayes: 95 Nays: 1",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281143_hi-8": {
+    "title": "Referred for engrossment",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 14,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-8",
+    "data": {
+      "chamber_id": 79,
+      "action": "Referred for engrossment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-13"
+    },
+    "chamber": "H"
+  },
+  "1281143_hi-9": {
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_hi-9",
+    "data": {
+      "importance": 1,
+      "date": "2019-03-14",
+      "chamber_id": 79,
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Engrossed, signed, to Senate",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 17
+  },
+  "1281143_pr-0": {
+    "title": "Introduced",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": ""
+  },
+  "1281143_pr-1": {
+    "title": "Refer",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-1",
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": ""
+  },
+  "1281143_pr-2": {
+    "title": "Report Pass",
+    "date": "2019-02-13",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 7,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-2",
+    "data": {
+      "event": 10,
+      "date": "2019-02-13"
+    },
+    "chamber": ""
+  },
+  "1281143_pr-3": {
+    "id": "1281143_pr-3",
+    "data": {
+      "event": 2,
+      "date": "2019-03-14"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 18,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_pr-4": {
+    "title": "Refer",
+    "date": "2019-03-26",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 21,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-4",
+    "data": {
+      "event": 9,
+      "date": "2019-03-26"
+    },
+    "chamber": ""
+  },
+  "1281143_pr-5": {
+    "bill_id": "1281143",
+    "id": "1281143_pr-5",
+    "data": {
+      "event": 10,
+      "date": "2019-04-08"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-04-08",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 23,
+    "time": ""
+  },
+  "1281143_pr-6": {
+    "data": {
+      "event": 3,
+      "date": "2019-04-18"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-04-18",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 31,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-6"
+  },
+  "1281143_pr-7": {
+    "title": "Passed",
+    "date": "2019-04-25",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 36,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_pr-7",
+    "data": {
+      "event": 4,
+      "date": "2019-04-25"
+    },
+    "chamber": ""
+  },
+  "1281143_tx-0": {
+    "title": "Introduced",
+    "date": "2019-01-28",
+    "description": "https://legiscan.com/OK/text/HB2517/id/2062540",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_tx-0",
+    "data": {
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 62165,
+      "type": "Introduced",
+      "date": "2019-01-28",
+      "doc_id": 2062540,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2517/id/2062540",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB2517%20INT.PDF"
+    },
+    "chamber": ""
+  },
+  "1281143_tx-1": {
+    "id": "1281143_tx-1",
+    "data": {
+      "url": "https://legiscan.com/OK/text/HB2517/id/2062541",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/HB2517%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2,
+      "text_size": 103880,
+      "type": "Amended",
+      "date": "2019-02-13",
+      "doc_id": 2062541,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-02-13",
+    "description": "https://legiscan.com/OK/text/HB2517/id/2062541",
+    "eventType": "text",
+    "eventIndex": 8,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_tx-2": {
+    "bill_id": "1281143",
+    "id": "1281143_tx-2",
+    "data": {
+      "text_size": 102315,
+      "type": "Amended",
+      "date": "2019-04-09",
+      "doc_id": 2062542,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2517/id/2062542",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/SFLR/HB2517%20SFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-04-09",
+    "description": "https://legiscan.com/OK/text/HB2517/id/2062542",
+    "eventType": "text",
+    "eventIndex": 24,
+    "time": ""
+  },
+  "1281143_tx-3": {
+    "data": {
+      "url": "https://legiscan.com/OK/text/HB2517/id/2062543",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENGR/hB/HB2517%20ENGR.PDF",
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 63065,
+      "type": "Engrossed",
+      "date": "2019-03-14",
+      "doc_id": 2062543,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-14",
+    "description": "https://legiscan.com/OK/text/HB2517/id/2062543",
+    "eventType": "text",
+    "eventIndex": 19,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_tx-3"
+  },
+  "1281143_tx-4": {
+    "id": "1281143_tx-4",
+    "data": {
+      "doc_id": 2062544,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2517/id/2062544",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENR/hB/HB2517%20ENR.PDF",
+      "type_id": 5,
+      "mime_id": 2,
+      "text_size": 62436,
+      "type": "Enrolled",
+      "date": "2019-04-18"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-04-18",
+    "description": "https://legiscan.com/OK/text/HB2517/id/2062544",
+    "eventType": "text",
+    "eventIndex": 32,
+    "time": "",
+    "bill_id": "1281143"
+  },
+  "1281143_vo-0": {
+    "eventType": "vote",
+    "eventIndex": 29,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_vo-0",
+    "data": {
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: THIRD READING",
+      "date": "2019-04-17",
+      "yea": 44,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/HB2517_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 896775,
+      "absent": 4,
+      "url": "https://legiscan.com/OK/rollcall/HB2517/id/896775",
+      "passed": 1
+    },
+    "chamber": "S",
+    "title": "Senate: THIRD READING (Passed)",
+    "date": "2019-04-17",
+    "description": "yea: 44 nay: 0 nv: 0"
+  },
+  "1281143_vo-1": {
+    "eventType": "vote",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_vo-1",
+    "data": {
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2517_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896776,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/HB2517/id/896776",
+      "passed": 1,
+      "total": 11,
+      "nv": 0,
+      "desc": "House: Health Services and Long-Term Care Committee: DO PASS",
+      "date": "2019-02-13",
+      "yea": 11
+    },
+    "chamber": "H",
+    "title": "House: Health Services and Long-Term Care Committee: DO PASS (Passed)",
+    "date": "2019-02-13",
+    "description": "yea: 11 nay: 0 nv: 0"
+  },
+  "1281143_vo-2": {
+    "data": {
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2517_VOTES.HTM",
+      "nay": 1,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896777,
+      "absent": 5,
+      "url": "https://legiscan.com/OK/rollcall/HB2517/id/896777",
+      "passed": 1,
+      "total": 101,
+      "nv": 0,
+      "desc": "House: THIRD READING",
+      "date": "2019-03-13",
+      "yea": 95
+    },
+    "chamber": "H",
+    "title": "House: THIRD READING (Passed)",
+    "date": "2019-03-13",
+    "description": "yea: 95 nay: 1 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 15,
+    "time": "",
+    "bill_id": "1281143",
+    "id": "1281143_vo-2"
+  },
+  "1281306_hi-0": {
+    "data": {
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-0"
+  },
+  "1281306_hi-1": {
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-04",
+      "chamber_id": 80,
+      "action": "Authored by Senator Standridge"
+    },
+    "chamber": "S",
+    "title": "Authored by Senator Standridge",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-1"
+  },
+  "1281306_hi-10": {
+    "id": "1281306_hi-10",
+    "data": {
+      "action": "Referred for engrossment",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Referred for engrossment",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 12,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-11": {
+    "title": "Engrossed to House",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 17,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-11",
+    "data": {
+      "action": "Engrossed to House",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-03-14",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281306_hi-12": {
+    "eventIndex": 18,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-12",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-14",
+      "chamber_id": 79,
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281306_hi-13": {
+    "eventType": "history",
+    "eventIndex": 21,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-13",
+    "data": {
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-03-19",
+      "chamber_id": 79,
+      "action": "Second Reading referred to Rules"
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Rules",
+    "date": "2019-03-19",
+    "description": ""
+  },
+  "1281306_hi-14": {
+    "data": {
+      "importance": 1,
+      "date": "2019-04-09",
+      "chamber_id": 79,
+      "action": "CR; Do Pass Rules Committee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass Rules Committee",
+    "date": "2019-04-09",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 23,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-14"
+  },
+  "1281306_hi-15": {
+    "data": {
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79,
+      "action": "General Order",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "General Order",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 27,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-15"
+  },
+  "1281306_hi-16": {
+    "title": "Amended",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 28,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-16",
+    "data": {
+      "chamber_id": 79,
+      "action": "Amended",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23"
+    },
+    "chamber": "H"
+  },
+  "1281306_hi-17": {
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-17",
+    "data": {
+      "action": "House Rule suspended",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "House Rule suspended",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 29
+  },
+  "1281306_hi-18": {
+    "id": "1281306_hi-18",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79,
+      "action": "Amended"
+    },
+    "chamber": "H",
+    "title": "Amended",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 30,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-19": {
+    "bill_id": "1281306",
+    "id": "1281306_hi-19",
+    "data": {
+      "action": "Emergency added",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Emergency added",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 31,
+    "time": ""
+  },
+  "1281306_hi-2": {
+    "title": "Second Reading referred to Health and Human Services",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-2",
+    "data": {
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281306_hi-20": {
+    "chamber": "H",
+    "title": "Third Reading, Measure and Emergency passed: Ayes: 74 Nays: 4",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 32,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-20",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79,
+      "action": "Third Reading, Measure and Emergency passed: Ayes: 74 Nays: 4",
+      "chamber": "H"
+    }
+  },
+  "1281306_hi-21": {
+    "id": "1281306_hi-21",
+    "data": {
+      "action": "Referred for engrossment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Referred for engrossment",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 33,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-22": {
+    "data": {
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-24",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Engrossed, signed, to Senate",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 36,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-22"
+  },
+  "1281306_hi-23": {
+    "eventType": "history",
+    "eventIndex": 37,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-23",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-24",
+      "chamber_id": 80,
+      "action": "HAs read",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "HAs read",
+    "date": "2019-04-24",
+    "description": ""
+  },
+  "1281306_hi-24": {
+    "id": "1281306_hi-24",
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80,
+      "action": "HAs adopted"
+    },
+    "chamber": "S",
+    "title": "HAs adopted",
+    "date": "2019-05-01",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 39,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-25": {
+    "id": "1281306_hi-25",
+    "data": {
+      "action": "Measure and Emergency passed: Ayes: 42 Nays: 3",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Measure and Emergency passed: Ayes: 42 Nays: 3",
+    "date": "2019-05-01",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 40,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-26": {
+    "id": "1281306_hi-26",
+    "data": {
+      "importance": 0,
+      "date": "2019-05-01",
+      "chamber_id": 80,
+      "action": "Referred for enrollment",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Referred for enrollment",
+    "date": "2019-05-01",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 41,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-27": {
+    "data": {
+      "importance": 1,
+      "date": "2019-05-02",
+      "chamber_id": 80,
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Enrolled, to House",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 43,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-27"
+  },
+  "1281306_hi-28": {
+    "title": "Signed, returned to Senate",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 44,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-28",
+    "data": {
+      "importance": 0,
+      "date": "2019-05-02",
+      "chamber_id": 79,
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    "chamber": "H"
+  },
+  "1281306_hi-29": {
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-02",
+      "chamber_id": 80,
+      "action": "Sent to Governor"
+    },
+    "chamber": "S",
+    "title": "Sent to Governor",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 45,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-29"
+  },
+  "1281306_hi-3": {
+    "id": "1281306_hi-3",
+    "data": {
+      "action": "Reported Do Pass as amended Health and Human Services committee; CR filed",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-18",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Reported Do Pass as amended Health and Human Services committee; CR filed",
+    "date": "2019-02-18",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-30": {
+    "data": {
+      "importance": 1,
+      "date": "2019-05-07",
+      "chamber_id": 80,
+      "action": "Approved by Governor 05/07/2019",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Approved by Governor 05/07/2019",
+    "date": "2019-05-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 48,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-30"
+  },
+  "1281306_hi-4": {
+    "title": "Title stricken",
+    "date": "2019-02-18",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 7,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-4",
+    "data": {
+      "action": "Title stricken",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-18",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281306_hi-5": {
+    "data": {
+      "action": "Coauthored by Senator Boggs",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-25",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Coauthored by Senator Boggs",
+    "date": "2019-02-25",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-5"
+  },
+  "1281306_hi-6": {
+    "eventIndex": 11,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_hi-6",
+    "data": {
+      "action": "Coauthored by Representative Marti (principal House author)",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-27",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Coauthored by Representative Marti (principal House author)",
+    "date": "2019-02-27",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281306_hi-7": {
+    "id": "1281306_hi-7",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 80,
+      "action": "General Order, Amended by Floor Substitute",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "General Order, Amended by Floor Substitute",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 13,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-8": {
+    "id": "1281306_hi-8",
+    "data": {
+      "action": "Title restored",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-13",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Title restored",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 14,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_hi-9": {
+    "id": "1281306_hi-9",
+    "data": {
+      "chamber_id": 80,
+      "action": "Measure passed: Ayes: 41 Nays: 1",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-13"
+    },
+    "chamber": "S",
+    "title": "Measure passed: Ayes: 41 Nays: 1",
+    "date": "2019-03-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 15,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_pr-0": {
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-0"
+  },
+  "1281306_pr-1": {
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-1",
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress"
+  },
+  "1281306_pr-2": {
+    "eventType": "progress",
+    "eventIndex": 8,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-2",
+    "data": {
+      "event": 10,
+      "date": "2019-02-18"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-02-18",
+    "description": ""
+  },
+  "1281306_pr-3": {
+    "data": {
+      "event": 2,
+      "date": "2019-03-14"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-14",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 19,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-3"
+  },
+  "1281306_pr-4": {
+    "data": {
+      "event": 9,
+      "date": "2019-03-19"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-03-19",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 22,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-4"
+  },
+  "1281306_pr-5": {
+    "title": "Report Pass",
+    "date": "2019-04-09",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 24,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_pr-5",
+    "data": {
+      "event": 10,
+      "date": "2019-04-09"
+    },
+    "chamber": ""
+  },
+  "1281306_pr-6": {
+    "id": "1281306_pr-6",
+    "data": {
+      "event": 3,
+      "date": "2019-05-02"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-05-02",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 46,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_pr-7": {
+    "id": "1281306_pr-7",
+    "data": {
+      "event": 4,
+      "date": "2019-05-07"
+    },
+    "chamber": "",
+    "title": "Passed",
+    "date": "2019-05-07",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 49,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_tx-0": {
+    "data": {
+      "text_size": 58884,
+      "type": "Introduced",
+      "date": "2019-01-04",
+      "doc_id": 2062917,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB162/id/2062917",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB162%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-04",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062917",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_tx-0"
+  },
+  "1281306_tx-1": {
+    "data": {
+      "text_size": 150425,
+      "type": "Amended",
+      "date": "2019-04-09",
+      "doc_id": 2062918,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB162/id/2062918",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/SB162%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-04-09",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062918",
+    "eventType": "text",
+    "eventIndex": 25,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_tx-1"
+  },
+  "1281306_tx-2": {
+    "id": "1281306_tx-2",
+    "data": {
+      "text_size": 100623,
+      "type": "Amended",
+      "date": "2019-02-19",
+      "doc_id": 2062919,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB162/id/2062919",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/SFLR/SB162%20SFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-02-19",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062919",
+    "eventType": "text",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1281306"
+  },
+  "1281306_tx-3": {
+    "data": {
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 107039,
+      "type": "Engrossed",
+      "date": "2019-03-14",
+      "doc_id": 2062920,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB162/id/2062920",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENGR/SB/SB162%20ENGR.PDF"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-14",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062920",
+    "eventType": "text",
+    "eventIndex": 20,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_tx-3"
+  },
+  "1281306_tx-4": {
+    "eventIndex": 38,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_tx-4",
+    "data": {
+      "url": "https://legiscan.com/OK/text/SB162/id/2062921",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20AMENDMENTS/Amendment%20&%20Engr/SB162%20HASB%20&%20ENGR.PDF",
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 111272,
+      "type": "Engrossed",
+      "date": "2019-04-24",
+      "doc_id": 2062921,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-04-24",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062921",
+    "eventType": "text"
+  },
+  "1281306_tx-5": {
+    "title": "Enrolled",
+    "date": "2019-05-02",
+    "description": "https://legiscan.com/OK/text/SB162/id/2062922",
+    "eventType": "text",
+    "eventIndex": 47,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_tx-5",
+    "data": {
+      "text_size": 107867,
+      "type": "Enrolled",
+      "date": "2019-05-02",
+      "doc_id": 2062922,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB162/id/2062922",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENR/SB/SB162%20ENR.PDF",
+      "type_id": 5,
+      "mime_id": 2
+    },
+    "chamber": ""
+  },
+  "1281306_vo-0": {
+    "chamber": "S",
+    "title": "Senate: THIRD READING (Passed)",
+    "date": "2019-03-13",
+    "description": "yea: 41 nay: 1 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 16,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_vo-0",
+    "data": {
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 896918,
+      "absent": 6,
+      "url": "https://legiscan.com/OK/rollcall/SB162/id/896918",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: THIRD READING",
+      "date": "2019-03-13",
+      "yea": 41,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/SB162_VOTES.HTM",
+      "nay": 1
+    }
+  },
+  "1281306_vo-1": {
+    "eventType": "vote",
+    "eventIndex": 42,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_vo-1",
+    "data": {
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 896919,
+      "absent": 3,
+      "url": "https://legiscan.com/OK/rollcall/SB162/id/896919",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: FOURTH READING",
+      "date": "2019-05-01",
+      "yea": 42,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/SB162_VOTES.HTM",
+      "nay": 3
+    },
+    "chamber": "S",
+    "title": "Senate: FOURTH READING (Passed)",
+    "date": "2019-05-01",
+    "description": "yea: 42 nay: 3 nv: 0"
+  },
+  "1281306_vo-2": {
+    "data": {
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896920,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/SB162/id/896920",
+      "passed": 1,
+      "total": 8,
+      "nv": 0,
+      "desc": "House: Rules Committee: DO PASS",
+      "date": "2019-04-09",
+      "yea": 8,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB162_VOTES.HTM",
+      "nay": 0
+    },
+    "chamber": "H",
+    "title": "House: Rules Committee: DO PASS (Passed)",
+    "date": "2019-04-09",
+    "description": "yea: 8 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 26,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_vo-2"
+  },
+  "1281306_vo-3": {
+    "eventIndex": 34,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_vo-3",
+    "data": {
+      "absent": 31,
+      "url": "https://legiscan.com/OK/rollcall/SB162/id/896921",
+      "passed": 1,
+      "total": 101,
+      "nv": 0,
+      "desc": "House: SUSPEND HOUSE RULES",
+      "date": "2019-04-23",
+      "yea": 69,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB162_VOTES.HTM",
+      "nay": 1,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896921
+    },
+    "chamber": "H",
+    "title": "House: SUSPEND HOUSE RULES (Passed)",
+    "date": "2019-04-23",
+    "description": "yea: 69 nay: 1 nv: 0",
+    "eventType": "vote"
+  },
+  "1281306_vo-4": {
+    "data": {
+      "nv": 0,
+      "desc": "House: THIRD READING",
+      "date": "2019-04-23",
+      "yea": 74,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB162_VOTES.HTM",
+      "nay": 4,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 896922,
+      "absent": 23,
+      "url": "https://legiscan.com/OK/rollcall/SB162/id/896922",
+      "passed": 1,
+      "total": 101
+    },
+    "chamber": "H",
+    "title": "House: THIRD READING (Passed)",
+    "date": "2019-04-23",
+    "description": "yea: 74 nay: 4 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 35,
+    "time": "",
+    "bill_id": "1281306",
+    "id": "1281306_vo-4"
+  },
+  "1281851_hi-0": {
+    "data": {
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 79,
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-0"
+  },
+  "1281851_hi-1": {
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-1",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-04",
+      "chamber_id": 79,
+      "action": "Authored by Representative Echols"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Echols",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281851_hi-10": {
+    "data": {
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-03-12"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-03-12",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 16,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-10"
+  },
+  "1281851_hi-11": {
+    "data": {
+      "importance": 1,
+      "date": "2019-03-26",
+      "chamber_id": 80,
+      "action": "Second Reading referred to Judiciary",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Second Reading referred to Judiciary",
+    "date": "2019-03-26",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 20,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-11"
+  },
+  "1281851_hi-12": {
+    "bill_id": "1281851",
+    "id": "1281851_hi-12",
+    "data": {
+      "importance": 1,
+      "date": "2019-04-02",
+      "chamber_id": 80,
+      "action": "Reported Do Pass Judiciary committee; CR filed",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Reported Do Pass Judiciary committee; CR filed",
+    "date": "2019-04-02",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 22,
+    "time": ""
+  },
+  "1281851_hi-13": {
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80,
+      "action": "General Order, Considered"
+    },
+    "chamber": "S",
+    "title": "General Order, Considered",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 25,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-13"
+  },
+  "1281851_hi-14": {
+    "title": "Measure passed: Ayes: 38 Nays: 4",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 26,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-14",
+    "data": {
+      "action": "Measure passed: Ayes: 38 Nays: 4",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80
+    },
+    "chamber": "S"
+  },
+  "1281851_hi-15": {
+    "title": "Engrossed measure signed, returned to House",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 27,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-15",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80,
+      "action": "Engrossed measure signed, returned to House",
+      "chamber": "S"
+    },
+    "chamber": "S"
+  },
+  "1281851_hi-16": {
+    "id": "1281851_hi-16",
+    "data": {
+      "chamber_id": 79,
+      "action": "Referred for enrollment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-23"
+    },
+    "chamber": "H",
+    "title": "Referred for enrollment",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 28,
+    "time": "",
+    "bill_id": "1281851"
+  },
+  "1281851_hi-17": {
+    "title": "Enrolled, signed, to Senate",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 30,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-17",
+    "data": {
+      "action": "Enrolled, signed, to Senate",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-04-24",
+      "chamber_id": 79
+    },
+    "chamber": "H"
+  },
+  "1281851_hi-18": {
+    "data": {
+      "chamber_id": 80,
+      "action": "Enrolled measure signed, returned to House",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-24"
+    },
+    "chamber": "S",
+    "title": "Enrolled measure signed, returned to House",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 31,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-18"
+  },
+  "1281851_hi-19": {
+    "eventIndex": 32,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-19",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-24",
+      "chamber_id": 79,
+      "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Sent to Governor",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history"
+  },
+  "1281851_hi-2": {
+    "chamber": "H",
+    "title": "Second Reading referred to Rules",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-2",
+    "data": {
+      "action": "Second Reading referred to Rules",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 79
+    }
+  },
+  "1281851_hi-20": {
+    "title": "Approved by Governor 04/29/2019",
+    "date": "2019-04-29",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 35,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-20",
+    "data": {
+      "action": "Approved by Governor 04/29/2019",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-04-29",
+      "chamber_id": 79
+    },
+    "chamber": "H"
+  },
+  "1281851_hi-3": {
+    "bill_id": "1281851",
+    "id": "1281851_hi-3",
+    "data": {
+      "importance": 1,
+      "date": "2019-02-27",
+      "chamber_id": 79,
+      "action": "CR; Do Pass Rules Committee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass Rules Committee",
+    "date": "2019-02-27",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 7,
+    "time": ""
+  },
+  "1281851_hi-4": {
+    "title": "General Order",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-4",
+    "data": {
+      "action": "General Order",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 79
+    },
+    "chamber": "H"
+  },
+  "1281851_hi-5": {
+    "bill_id": "1281851",
+    "id": "1281851_hi-5",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 79,
+      "action": "Coauthored by Representative(s) Hasenbeck",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Coauthored by Representative(s) Hasenbeck",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 11,
+    "time": ""
+  },
+  "1281851_hi-6": {
+    "eventType": "history",
+    "eventIndex": 12,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-6",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 79,
+      "action": "Authored by Senator Bice (principal Senate author)"
+    },
+    "chamber": "H",
+    "title": "Authored by Senator Bice (principal Senate author)",
+    "date": "2019-03-11",
+    "description": ""
+  },
+  "1281851_hi-7": {
+    "data": {
+      "action": "Third Reading, Measure passed: Ayes: 98 Nays: 0",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Third Reading, Measure passed: Ayes: 98 Nays: 0",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 13,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_hi-7"
+  },
+  "1281851_hi-8": {
+    "bill_id": "1281851",
+    "id": "1281851_hi-8",
+    "data": {
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 79,
+      "action": "Referred for engrossment",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Referred for engrossment",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 14,
+    "time": ""
+  },
+  "1281851_hi-9": {
+    "id": "1281851_hi-9",
+    "data": {
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-03-12",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Engrossed, signed, to Senate",
+    "date": "2019-03-12",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 17,
+    "time": "",
+    "bill_id": "1281851"
+  },
+  "1281851_pr-0": {
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-0"
+  },
+  "1281851_pr-1": {
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-1"
+  },
+  "1281851_pr-2": {
+    "eventIndex": 8,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-2",
+    "data": {
+      "event": 10,
+      "date": "2019-02-27"
+    },
+    "chamber": "",
+    "title": "Draft",
+    "date": "2019-02-27",
+    "description": "",
+    "eventType": "progress"
+  },
+  "1281851_pr-3": {
+    "bill_id": "1281851",
+    "id": "1281851_pr-3",
+    "data": {
+      "event": 2,
+      "date": "2019-03-12"
+    },
+    "chamber": "",
+    "title": "Passed",
+    "date": "2019-03-12",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 18,
+    "time": ""
+  },
+  "1281851_pr-4": {
+    "eventType": "progress",
+    "eventIndex": 21,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-4",
+    "data": {
+      "event": 9,
+      "date": "2019-03-26"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-03-26",
+    "description": ""
+  },
+  "1281851_pr-5": {
+    "title": "Draft",
+    "date": "2019-04-02",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 23,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-5",
+    "data": {
+      "event": 10,
+      "date": "2019-04-02"
+    },
+    "chamber": ""
+  },
+  "1281851_pr-6": {
+    "data": {
+      "event": 3,
+      "date": "2019-04-24"
+    },
+    "chamber": "",
+    "title": "Vetoed",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 33,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-6"
+  },
+  "1281851_pr-7": {
+    "data": {
+      "event": 4,
+      "date": "2019-04-29"
+    },
+    "chamber": "",
+    "title": "Failed",
+    "date": "2019-04-29",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 36,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_pr-7"
+  },
+  "1281851_tx-0": {
+    "id": "1281851_tx-0",
+    "data": {
+      "text_size": 89972,
+      "type": "Introduced",
+      "date": "2019-01-17",
+      "doc_id": 2064232,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2630/id/2064232",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB2630%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-17",
+    "description": "https://legiscan.com/OK/text/HB2630/id/2064232",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1281851"
+  },
+  "1281851_tx-1": {
+    "id": "1281851_tx-1",
+    "data": {
+      "date": "2019-02-28",
+      "doc_id": 2064233,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2630/id/2064233",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/HB2630%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2,
+      "text_size": 133623,
+      "type": "Amended"
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-02-28",
+    "description": "https://legiscan.com/OK/text/HB2630/id/2064233",
+    "eventType": "text",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1281851"
+  },
+  "1281851_tx-2": {
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-04-03",
+    "description": "https://legiscan.com/OK/text/HB2630/id/2064234",
+    "eventType": "text",
+    "eventIndex": 24,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_tx-2",
+    "data": {
+      "mime_id": 2,
+      "text_size": 131970,
+      "type": "Amended",
+      "date": "2019-04-03",
+      "doc_id": 2064234,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2630/id/2064234",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/SFLR/HB2630%20SFLR.PDF",
+      "type_id": 3
+    }
+  },
+  "1281851_tx-3": {
+    "data": {
+      "type_id": 4,
+      "mime_id": 2,
+      "text_size": 91043,
+      "type": "Engrossed",
+      "date": "2019-03-12",
+      "doc_id": 2064235,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2630/id/2064235",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENGR/hB/HB2630%20ENGR.PDF"
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-03-12",
+    "description": "https://legiscan.com/OK/text/HB2630/id/2064235",
+    "eventType": "text",
+    "eventIndex": 19,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_tx-3"
+  },
+  "1281851_tx-4": {
+    "data": {
+      "type_id": 5,
+      "mime_id": 2,
+      "text_size": 87142,
+      "type": "Enrolled",
+      "date": "2019-04-24",
+      "doc_id": 2064236,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2630/id/2064236",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENR/hB/HB2630%20ENR.PDF"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-04-24",
+    "description": "https://legiscan.com/OK/text/HB2630/id/2064236",
+    "eventType": "text",
+    "eventIndex": 34,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_tx-4"
+  },
+  "1281851_vo-0": {
+    "bill_id": "1281851",
+    "id": "1281851_vo-0",
+    "data": {
+      "date": "2019-04-23",
+      "yea": 38,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/HB2630_VOTES.HTM",
+      "nay": 4,
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 897437,
+      "absent": 6,
+      "url": "https://legiscan.com/OK/rollcall/HB2630/id/897437",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: THIRD READING"
+    },
+    "chamber": "S",
+    "title": "Senate: THIRD READING (Passed)",
+    "date": "2019-04-23",
+    "description": "yea: 38 nay: 4 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 29,
+    "time": ""
+  },
+  "1281851_vo-1": {
+    "id": "1281851_vo-1",
+    "data": {
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2630_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 897438,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/HB2630/id/897438",
+      "passed": 1,
+      "total": 8,
+      "nv": 0,
+      "desc": "House: Rules Committee: DO PASS",
+      "date": "2019-02-26",
+      "yea": 8
+    },
+    "chamber": "H",
+    "title": "House: Rules Committee: DO PASS (Passed)",
+    "date": "2019-02-26",
+    "description": "yea: 8 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1281851"
+  },
+  "1281851_vo-2": {
+    "title": "House: THIRD READING (Passed)",
+    "date": "2019-03-11",
+    "description": "yea: 98 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 15,
+    "time": "",
+    "bill_id": "1281851",
+    "id": "1281851_vo-2",
+    "data": {
+      "passed": 1,
+      "total": 101,
+      "nv": 0,
+      "desc": "House: THIRD READING",
+      "date": "2019-03-11",
+      "yea": 98,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2630_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 897439,
+      "absent": 3,
+      "url": "https://legiscan.com/OK/rollcall/HB2630/id/897439"
+    },
+    "chamber": "H"
+  },
+  "1282194_hi-0": {
+    "eventType": "history",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_hi-0",
+    "data": {
+      "action": "General Order",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-06",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "General Order",
+    "date": "2020-02-06",
+    "description": ""
+  },
+  "1282194_hi-1": {
+    "title": "Coauthored by Representative(s) West (Kevin), Gann, Humphrey, Smith, Boles, Hardin (David), Roberts (Sean), Roberts (Dustin), Davis, Russ, Steagall, Stark, Taylor, CrosswhiteHader, Townley, McCall, McDugle, Miller, Hilbert, Sims, Lepak, Lawson, Vancuren, Sanders, Hill, Randleman",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_hi-1",
+    "data": {
+      "chamber_id": 79,
+      "action": "Coauthored by Representative(s) West (Kevin), Gann, Humphrey, Smith, Boles, Hardin (David), Roberts (Sean), Roberts (Dustin), Davis, Russ, Steagall, Stark, Taylor, CrosswhiteHader, Townley, McCall, McDugle, Miller, Hilbert, Sims, Lepak, Lawson, Vancuren, Sanders, Hill, Randleman",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-06"
+    },
+    "chamber": "H"
+  },
+  "1282194_hi-2": {
+    "id": "1282194_hi-2",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-06",
+      "chamber_id": 79,
+      "action": "Coauthored by Senator(s) Bullard"
+    },
+    "chamber": "H",
+    "title": "Coauthored by Senator(s) Bullard",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1282194"
+  },
+  "1282194_hi-3": {
+    "title": "Amended",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_hi-3",
+    "data": {
+      "importance": 0,
+      "date": "2020-02-06",
+      "chamber_id": 79,
+      "action": "Amended",
+      "chamber": "H"
+    },
+    "chamber": "H"
+  },
+  "1282194_hi-4": {
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_hi-4",
+    "data": {
+      "action": "Third Reading, Measure passed: Ayes: 71 Nays: 21",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-06",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Third Reading, Measure passed: Ayes: 71 Nays: 21",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4
+  },
+  "1282194_hi-5": {
+    "id": "1282194_hi-5",
+    "data": {
+      "chamber_id": 79,
+      "action": "Referred for engrossment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-06"
+    },
+    "chamber": "H",
+    "title": "Referred for engrossment",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1282194"
+  },
+  "1282194_pr-0": {
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_pr-0"
+  },
+  "1282194_pr-1": {
+    "id": "1282194_pr-1",
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1282194"
+  },
+  "1282194_pr-2": {
+    "eventType": "progress",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_pr-2",
+    "data": {
+      "event": 10,
+      "date": "2019-02-20"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-02-20",
+    "description": ""
+  },
+  "1282194_tx-0": {
+    "id": "1282194_tx-0",
+    "data": {
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 76867,
+      "type": "Introduced",
+      "date": "2019-01-16",
+      "doc_id": 2065002,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB1182/id/2065002",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB1182%20INT.PDF"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-16",
+    "description": "https://legiscan.com/OK/text/HB1182/id/2065002",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1282194"
+  },
+  "1282194_tx-1": {
+    "data": {
+      "text_size": 120112,
+      "type": "Amended",
+      "date": "2019-02-21",
+      "doc_id": 2065003,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB1182/id/2065003",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/HB1182%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-02-21",
+    "description": "https://legiscan.com/OK/text/HB1182/id/2065003",
+    "eventType": "text",
+    "eventIndex": 11,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_tx-1"
+  },
+  "1282194_vo-0": {
+    "title": "House: THIRD READING (Passed)",
+    "date": "2020-02-06",
+    "description": "yea: 71 nay: 21 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1282194",
+    "id": "1282194_vo-0",
+    "data": {
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 917621,
+      "absent": 8,
+      "url": "https://legiscan.com/OK/rollcall/HB1182/id/917621",
+      "passed": 1,
+      "total": 100,
+      "nv": 0,
+      "desc": "House: THIRD READING",
+      "date": "2020-02-06",
+      "yea": 71,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB1182_VOTES.HTM",
+      "nay": 21
+    },
+    "chamber": "H"
+  },
+  "1282928_hi-0": {
+    "id": "1282928_hi-0",
+    "data": {
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1282928"
+  },
+  "1282928_hi-1": {
+    "id": "1282928_hi-1",
+    "data": {
+      "action": "Authored by Senator Bice",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-02-04",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Authored by Senator Bice",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1282928"
+  },
+  "1282928_hi-2": {
+    "time": "",
+    "bill_id": "1282928",
+    "id": "1282928_hi-2",
+    "data": {
+      "chamber_id": 80,
+      "action": "Second Reading referred to Business, Commerce and Tourism",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-02-07"
+    },
+    "chamber": "S",
+    "title": "Second Reading referred to Business, Commerce and Tourism",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4
+  },
+  "1282928_pr-0": {
+    "title": "Engrossed",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1282928",
+    "id": "1282928_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": ""
+  },
+  "1282928_pr-1": {
+    "data": {
+      "event": 9,
+      "date": "2019-02-07"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1282928",
+    "id": "1282928_pr-1"
+  },
+  "1282928_tx-0": {
+    "id": "1282928_tx-0",
+    "data": {
+      "text_size": 54691,
+      "type": "Introduced",
+      "date": "2019-01-17",
+      "doc_id": 2066665,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB860/id/2066665",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB860%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-17",
+    "description": "https://legiscan.com/OK/text/SB860/id/2066665",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1282928"
+  },
+  "1283288_hi-0": {
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-0",
+    "data": {
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-02-04",
+      "chamber_id": 79,
+      "action": "First Reading"
+    }
+  },
+  "1283288_hi-1": {
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-1",
+    "data": {
+      "chamber_id": 79,
+      "action": "Authored by Representative Blancett",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-04"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Blancett",
+    "date": "2019-02-04",
+    "description": "",
+    "eventType": "history"
+  },
+  "1283288_hi-10": {
+    "chamber": "H",
+    "title": "Referred for engrossment",
+    "date": "2019-03-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 16,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-10",
+    "data": {
+      "action": "Referred for engrossment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-07",
+      "chamber_id": 79
+    }
+  },
+  "1283288_hi-11": {
+    "bill_id": "1283288",
+    "id": "1283288_hi-11",
+    "data": {
+      "importance": 1,
+      "date": "2019-03-11",
+      "chamber_id": 79,
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Engrossed, signed, to Senate",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 20,
+    "time": ""
+  },
+  "1283288_hi-12": {
+    "data": {
+      "importance": 0,
+      "date": "2019-03-11",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 21,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-12"
+  },
+  "1283288_hi-13": {
+    "data": {
+      "action": "Second Reading referred to Finance",
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-03-26",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Second Reading referred to Finance",
+    "date": "2019-03-26",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 24,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-13"
+  },
+  "1283288_hi-14": {
+    "data": {
+      "chamber": "S",
+      "importance": 1,
+      "date": "2019-04-09",
+      "chamber_id": 80,
+      "action": "Reported Do Pass as amended Finance committee; CR filed"
+    },
+    "chamber": "S",
+    "title": "Reported Do Pass as amended Finance committee; CR filed",
+    "date": "2019-04-09",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 26,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-14"
+  },
+  "1283288_hi-15": {
+    "eventType": "history",
+    "eventIndex": 27,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-15",
+    "data": {
+      "importance": 0,
+      "date": "2019-04-09",
+      "chamber_id": 80,
+      "action": "Enacting clause stricken",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Enacting clause stricken",
+    "date": "2019-04-09",
+    "description": ""
+  },
+  "1283288_hi-16": {
+    "id": "1283288_hi-16",
+    "data": {
+      "action": "Coauthored by Senator Bergstrom",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Coauthored by Senator Bergstrom",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 30,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_hi-17": {
+    "id": "1283288_hi-17",
+    "data": {
+      "chamber_id": 80,
+      "action": "General Order, Amended",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23"
+    },
+    "chamber": "S",
+    "title": "General Order, Amended",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 31,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_hi-18": {
+    "chamber": "S",
+    "title": "Title restored",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 32,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-18",
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80,
+      "action": "Title restored"
+    }
+  },
+  "1283288_hi-19": {
+    "eventIndex": 33,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-19",
+    "data": {
+      "chamber_id": 80,
+      "action": "Enacting clause restored",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23"
+    },
+    "chamber": "S",
+    "title": "Enacting clause restored",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history"
+  },
+  "1283288_hi-2": {
+    "data": {
+      "importance": 1,
+      "date": "2019-02-05",
+      "chamber_id": 79,
+      "action": "Second Reading referred to Appropriations and Budget",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Appropriations and Budget",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-2"
+  },
+  "1283288_hi-20": {
+    "chamber": "S",
+    "title": "Measure passed: Ayes: 33 Nays: 12",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 34,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-20",
+    "data": {
+      "chamber_id": 80,
+      "action": "Measure passed: Ayes: 33 Nays: 12",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23"
+    }
+  },
+  "1283288_hi-21": {
+    "data": {
+      "action": "Referred for engrossment",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-23",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Referred for engrossment",
+    "date": "2019-04-23",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 35,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-21"
+  },
+  "1283288_hi-22": {
+    "chamber": "S",
+    "title": "Engrossed to House",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 37,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-22",
+    "data": {
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-04-24",
+      "chamber_id": 80,
+      "action": "Engrossed to House"
+    }
+  },
+  "1283288_hi-23": {
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-23",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-04-24",
+      "chamber_id": 79,
+      "action": "SA's received"
+    },
+    "chamber": "H",
+    "title": "SA's received",
+    "date": "2019-04-24",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 38
+  },
+  "1283288_hi-24": {
+    "id": "1283288_hi-24",
+    "data": {
+      "importance": 0,
+      "date": "2019-05-09",
+      "chamber_id": 79,
+      "action": "SA's read, adopted",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "SA's read, adopted",
+    "date": "2019-05-09",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 40,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_hi-25": {
+    "title": "Fourth Reading, Measure passed: Ayes: 70 Nays: 17",
+    "date": "2019-05-09",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 41,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-25",
+    "data": {
+      "action": "Fourth Reading, Measure passed: Ayes: 70 Nays: 17",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-05-09",
+      "chamber_id": 79
+    },
+    "chamber": "H"
+  },
+  "1283288_hi-26": {
+    "id": "1283288_hi-26",
+    "data": {
+      "chamber_id": 79,
+      "action": "Referred for enrollment",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-05-09"
+    },
+    "chamber": "H",
+    "title": "Referred for enrollment",
+    "date": "2019-05-09",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 42,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_hi-27": {
+    "title": "Enrolled, signed, to Senate",
+    "date": "2019-05-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 44,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-27",
+    "data": {
+      "chamber": "H",
+      "importance": 1,
+      "date": "2019-05-13",
+      "chamber_id": 79,
+      "action": "Enrolled, signed, to Senate"
+    },
+    "chamber": "H"
+  },
+  "1283288_hi-28": {
+    "data": {
+      "action": "Enrolled measure signed, returned to House",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2019-05-13",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Enrolled measure signed, returned to House",
+    "date": "2019-05-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 45,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-28"
+  },
+  "1283288_hi-29": {
+    "title": "Sent to Governor",
+    "date": "2019-05-13",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 46,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-29",
+    "data": {
+      "importance": 0,
+      "date": "2019-05-13",
+      "chamber_id": 79,
+      "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    "chamber": "H"
+  },
+  "1283288_hi-3": {
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-3",
+    "data": {
+      "importance": 1,
+      "date": "2019-02-07",
+      "chamber_id": 79,
+      "action": "Referred to Appropriations and Budget Finance Subcommittee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Referred to Appropriations and Budget Finance Subcommittee",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "history"
+  },
+  "1283288_hi-30": {
+    "data": {
+      "importance": 1,
+      "date": "2019-05-16",
+      "chamber_id": 79,
+      "action": "Approved by Governor 05/16/2019",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Approved by Governor 05/16/2019",
+    "date": "2019-05-16",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 49,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-30"
+  },
+  "1283288_hi-4": {
+    "bill_id": "1283288",
+    "id": "1283288_hi-4",
+    "data": {
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-11",
+      "chamber_id": 79,
+      "action": "Recommendation to the full committee; Do Pass Appropriations and Budget Finance Subcommittee"
+    },
+    "chamber": "H",
+    "title": "Recommendation to the full committee; Do Pass Appropriations and Budget Finance Subcommittee",
+    "date": "2019-02-11",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 8,
+    "time": ""
+  },
+  "1283288_hi-5": {
+    "bill_id": "1283288",
+    "id": "1283288_hi-5",
+    "data": {
+      "importance": 1,
+      "date": "2019-02-28",
+      "chamber_id": 79,
+      "action": "CR; Do Pass, as amended, Appropriations and Budget Committee",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass, as amended, Appropriations and Budget Committee",
+    "date": "2019-02-28",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 11,
+    "time": ""
+  },
+  "1283288_hi-6": {
+    "title": "Authored by Senator Thompson (principal Senate author)",
+    "date": "2019-02-28",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 12,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-6",
+    "data": {
+      "chamber_id": 79,
+      "action": "Authored by Senator Thompson (principal Senate author)",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-28"
+    },
+    "chamber": "H"
+  },
+  "1283288_hi-7": {
+    "data": {
+      "action": "Title stricken",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-02-28",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Title stricken",
+    "date": "2019-02-28",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 13,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_hi-7"
+  },
+  "1283288_hi-8": {
+    "id": "1283288_hi-8",
+    "data": {
+      "action": "General Order",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-07",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "General Order",
+    "date": "2019-03-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 17,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_hi-9": {
+    "bill_id": "1283288",
+    "id": "1283288_hi-9",
+    "data": {
+      "chamber_id": 79,
+      "action": "Third Reading, Measure passed: Ayes: 91 Nays: 4",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2019-03-07"
+    },
+    "chamber": "H",
+    "title": "Third Reading, Measure passed: Ayes: 91 Nays: 4",
+    "date": "2019-03-07",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 18,
+    "time": ""
+  },
+  "1283288_pr-0": {
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2019-02-04"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-02-04",
+    "description": ""
+  },
+  "1283288_pr-1": {
+    "id": "1283288_pr-1",
+    "data": {
+      "event": 9,
+      "date": "2019-02-05"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-02-05",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 5,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_pr-2": {
+    "data": {
+      "event": 9,
+      "date": "2019-02-07"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-02-07",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 7,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_pr-2"
+  },
+  "1283288_pr-3": {
+    "chamber": "",
+    "title": "Draft",
+    "date": "2019-02-28",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 14,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_pr-3",
+    "data": {
+      "event": 10,
+      "date": "2019-02-28"
+    }
+  },
+  "1283288_pr-4": {
+    "id": "1283288_pr-4",
+    "data": {
+      "event": 2,
+      "date": "2019-03-11"
+    },
+    "chamber": "",
+    "title": "Passed",
+    "date": "2019-03-11",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 22,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_pr-5": {
+    "bill_id": "1283288",
+    "id": "1283288_pr-5",
+    "data": {
+      "event": 9,
+      "date": "2019-03-26"
+    },
+    "chamber": "",
+    "title": "Report DNP",
+    "date": "2019-03-26",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 25,
+    "time": ""
+  },
+  "1283288_pr-6": {
+    "data": {
+      "event": 10,
+      "date": "2019-04-09"
+    },
+    "chamber": "",
+    "title": "Draft",
+    "date": "2019-04-09",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 28,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_pr-6"
+  },
+  "1283288_pr-7": {
+    "id": "1283288_pr-7",
+    "data": {
+      "event": 3,
+      "date": "2019-05-13"
+    },
+    "chamber": "",
+    "title": "Vetoed",
+    "date": "2019-05-13",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 47,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_pr-8": {
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_pr-8",
+    "data": {
+      "event": 4,
+      "date": "2019-05-16"
+    },
+    "chamber": "",
+    "title": "Failed",
+    "date": "2019-05-16",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 50
+  },
+  "1283288_tx-0": {
+    "data": {
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067434",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB2530%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 114042,
+      "type": "Introduced",
+      "date": "2019-01-17",
+      "doc_id": 2067434
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2019-01-17",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067434",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_tx-0"
+  },
+  "1283288_tx-1": {
+    "id": "1283288_tx-1",
+    "data": {
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067435",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/HB2530%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2,
+      "text_size": 162804,
+      "type": "Amended",
+      "date": "2019-03-01",
+      "doc_id": 2067435,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2019-03-01",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067435",
+    "eventType": "text",
+    "eventIndex": 15,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_tx-2": {
+    "title": "Amended",
+    "date": "2019-04-10",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067436",
+    "eventType": "text",
+    "eventIndex": 29,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_tx-2",
+    "data": {
+      "type_id": 3,
+      "mime_id": 2,
+      "text_size": 158547,
+      "type": "Amended",
+      "date": "2019-04-10",
+      "doc_id": 2067436,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067436",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/SFLR/HB2530%20SFLR.PDF"
+    },
+    "chamber": ""
+  },
+  "1283288_tx-3": {
+    "title": "Engrossed",
+    "date": "2019-03-11",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067437",
+    "eventType": "text",
+    "eventIndex": 23,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_tx-3",
+    "data": {
+      "text_size": 115673,
+      "type": "Engrossed",
+      "date": "2019-03-11",
+      "doc_id": 2067437,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067437",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENGR/hB/HB2530%20ENGR.PDF",
+      "type_id": 4,
+      "mime_id": 2
+    },
+    "chamber": ""
+  },
+  "1283288_tx-4": {
+    "id": "1283288_tx-4",
+    "data": {
+      "text_size": 118567,
+      "type": "Engrossed",
+      "date": "2019-04-24",
+      "doc_id": 2067438,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067438",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20AMENDMENTS/Amendment%20&%20Engr/HB2530%20SAHB%20&%20ENGR.PDF",
+      "type_id": 4,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Engrossed",
+    "date": "2019-04-24",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067438",
+    "eventType": "text",
+    "eventIndex": 39,
+    "time": "",
+    "bill_id": "1283288"
+  },
+  "1283288_tx-5": {
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2019-05-13",
+    "description": "https://legiscan.com/OK/text/HB2530/id/2067439",
+    "eventType": "text",
+    "eventIndex": 48,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_tx-5",
+    "data": {
+      "text_size": 108346,
+      "type": "Enrolled",
+      "date": "2019-05-13",
+      "doc_id": 2067439,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB2530/id/2067439",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20ENR/hB/HB2530%20ENR.PDF",
+      "type_id": 5,
+      "mime_id": 2
+    }
+  },
+  "1283288_vo-0": {
+    "data": {
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/Senate/HB2530_VOTES.HTM",
+      "nay": 12,
+      "chamber_id": 80,
+      "chamber": "S",
+      "roll_call_id": 898612,
+      "absent": 3,
+      "url": "https://legiscan.com/OK/rollcall/HB2530/id/898612",
+      "passed": 1,
+      "total": 48,
+      "nv": 0,
+      "desc": "Senate: THIRD READING",
+      "date": "2019-04-23",
+      "yea": 33
+    },
+    "chamber": "S",
+    "title": "Senate: THIRD READING (Passed)",
+    "date": "2019-04-23",
+    "description": "yea: 33 nay: 12 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 36,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_vo-0"
+  },
+  "1283288_vo-1": {
+    "chamber": "H",
+    "title": "House: Appropriations and Budget Finance Subcommittee: DO PASS (Passed)",
+    "date": "2019-02-11",
+    "description": "yea: 7 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_vo-1",
+    "data": {
+      "nv": 0,
+      "desc": "House: Appropriations and Budget Finance Subcommittee: DO PASS",
+      "date": "2019-02-11",
+      "yea": 7,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2530_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 898613,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/HB2530/id/898613",
+      "passed": 1,
+      "total": 7
+    }
+  },
+  "1283288_vo-2": {
+    "data": {
+      "url": "https://legiscan.com/OK/rollcall/HB2530/id/898614",
+      "passed": 1,
+      "total": 28,
+      "nv": 0,
+      "desc": "House: Appropriations and Budget Committee: DO PASS AS AMENDED, STRIKE THE T ITLE",
+      "date": "2019-02-27",
+      "yea": 28,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2530_VOTES.HTM",
+      "nay": 0,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 898614,
+      "absent": 0
+    },
+    "chamber": "H",
+    "title": "House: Appropriations and Budget Committee: DO PASS AS AMENDED, STRIKE THE T ITLE (Passed)",
+    "date": "2019-02-27",
+    "description": "yea: 28 nay: 0 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_vo-2"
+  },
+  "1283288_vo-3": {
+    "data": {
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2530_VOTES.HTM",
+      "nay": 4,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 898615,
+      "absent": 6,
+      "url": "https://legiscan.com/OK/rollcall/HB2530/id/898615",
+      "passed": 1,
+      "total": 101,
+      "nv": 0,
+      "desc": "House: THIRD READING",
+      "date": "2019-03-07",
+      "yea": 91
+    },
+    "chamber": "H",
+    "title": "House: THIRD READING (Passed)",
+    "date": "2019-03-07",
+    "description": "yea: 91 nay: 4 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 19,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_vo-3"
+  },
+  "1283288_vo-4": {
+    "title": "House: FOURTH READING (Passed)",
+    "date": "2019-05-09",
+    "description": "yea: 70 nay: 17 nv: 0",
+    "eventType": "vote",
+    "eventIndex": 43,
+    "time": "",
+    "bill_id": "1283288",
+    "id": "1283288_vo-4",
+    "data": {
+      "passed": 1,
+      "total": 101,
+      "nv": 0,
+      "desc": "House: FOURTH READING",
+      "date": "2019-05-09",
+      "yea": 70,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2530_VOTES.HTM",
+      "nay": 17,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 898616,
+      "absent": 14,
+      "url": "https://legiscan.com/OK/rollcall/HB2530/id/898616"
+    },
+    "chamber": "H"
+  },
+  "1310282_hi-0": {
+    "data": {
+      "action": "Second Reading referred to Public Health",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2020-02-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Public Health",
+    "date": "2020-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1310282",
+    "id": "1310282_hi-0"
+  },
+  "1310282_hi-1": {
+    "data": {
+      "importance": 0,
+      "date": "2020-02-03",
+      "chamber_id": 79,
+      "action": "Authored by Representative Kiger",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Kiger",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1310282",
+    "id": "1310282_hi-1"
+  },
+  "1310282_pr-0": {
+    "time": "",
+    "bill_id": "1310282",
+    "id": "1310282_pr-0",
+    "data": {
+      "event": 9,
+      "date": "2020-02-04"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2020-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 1
+  },
+  "1310282_tx-0": {
+    "data": {
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB3070/id/2099514",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB3070%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 58293,
+      "type": "Introduced",
+      "date": "2020-01-16",
+      "doc_id": 2099514
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-01-16",
+    "description": "https://legiscan.com/OK/text/HB3070/id/2099514",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1310282",
+    "id": "1310282_tx-0"
+  },
+  "1310416_hi-0": {
+    "id": "1310416_hi-0",
+    "data": {
+      "action": "First Reading",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2020-02-03",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1310416"
+  },
+  "1310416_hi-1": {
+    "time": "",
+    "bill_id": "1310416",
+    "id": "1310416_hi-1",
+    "data": {
+      "action": "Authored by Representative Pittman",
+      "chamber": "H",
+      "importance": 0,
+      "date": "2020-02-03",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Pittman",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2
+  },
+  "1310416_pr-0": {
+    "bill_id": "1310416",
+    "id": "1310416_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2020-02-03"
+    },
+    "chamber": "",
+    "title": "Enrolled",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": ""
+  },
+  "1310416_tx-0": {
+    "bill_id": "1310416",
+    "id": "1310416_tx-0",
+    "data": {
+      "text_size": 56153,
+      "type": "Introduced",
+      "date": "2020-01-16",
+      "doc_id": 2099644,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB3088/id/2099644",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB3088%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-01-16",
+    "description": "https://legiscan.com/OK/text/HB3088/id/2099644",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": ""
+  },
+  "1310873_ca-0": {
+    "data": {
+      "type": "Hearing",
+      "location": "ROOM 206",
+      "date": "2020-02-04",
+      "description": "House Judiciary Hearing",
+      "time": "15:00",
+      "type_id": 1
+    },
+    "chamber": "",
+    "title": "Hearing",
+    "date": "2020-02-04",
+    "description": "House Judiciary Hearing",
+    "eventType": "calendar",
+    "eventIndex": 4,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_ca-0"
+  },
+  "1310873_hi-0": {
+    "bill_id": "1310873",
+    "id": "1310873_hi-0",
+    "data": {
+      "importance": 1,
+      "date": "2020-02-03",
+      "chamber_id": 79,
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "First Reading",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": ""
+  },
+  "1310873_hi-1": {
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_hi-1",
+    "data": {
+      "importance": 0,
+      "date": "2020-02-03",
+      "chamber_id": 79,
+      "action": "Authored by Representative Pfeiffer",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Authored by Representative Pfeiffer",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history"
+  },
+  "1310873_hi-2": {
+    "bill_id": "1310873",
+    "id": "1310873_hi-2",
+    "data": {
+      "action": "Second Reading referred to Judiciary",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2020-02-04",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "Second Reading referred to Judiciary",
+    "date": "2020-02-04",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 5,
+    "time": ""
+  },
+  "1310873_hi-3": {
+    "eventIndex": 8,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_hi-3",
+    "data": {
+      "action": "CR; Do Pass Judiciary Committee",
+      "chamber": "H",
+      "importance": 1,
+      "date": "2020-02-06",
+      "chamber_id": 79
+    },
+    "chamber": "H",
+    "title": "CR; Do Pass Judiciary Committee",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history"
+  },
+  "1310873_hi-4": {
+    "id": "1310873_hi-4",
+    "data": {
+      "importance": 0,
+      "date": "2020-02-06",
+      "chamber_id": 79,
+      "action": "Coauthored by Representative(s) Roberts (Dustin), Mize",
+      "chamber": "H"
+    },
+    "chamber": "H",
+    "title": "Coauthored by Representative(s) Roberts (Dustin), Mize",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 9,
+    "time": "",
+    "bill_id": "1310873"
+  },
+  "1310873_pr-0": {
+    "data": {
+      "event": 1,
+      "date": "2020-02-03"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_pr-0"
+  },
+  "1310873_pr-1": {
+    "data": {
+      "event": 9,
+      "date": "2020-02-04"
+    },
+    "chamber": "",
+    "title": "Refer",
+    "date": "2020-02-04",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 6,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_pr-1"
+  },
+  "1310873_pr-2": {
+    "data": {
+      "event": 10,
+      "date": "2020-02-06"
+    },
+    "chamber": "",
+    "title": "Report Pass",
+    "date": "2020-02-06",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 10,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_pr-2"
+  },
+  "1310873_tx-0": {
+    "title": "Introduced",
+    "date": "2020-01-16",
+    "description": "https://legiscan.com/OK/text/HB3195/id/2100167",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_tx-0",
+    "data": {
+      "text_size": 57270,
+      "type": "Introduced",
+      "date": "2020-01-16",
+      "doc_id": 2100167,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB3195/id/2100167",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/hB/HB3195%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": ""
+  },
+  "1310873_tx-1": {
+    "id": "1310873_tx-1",
+    "data": {
+      "text_size": 99463,
+      "type": "Amended",
+      "date": "2020-02-06",
+      "doc_id": 2126883,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/HB3195/id/2126883",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20FLR/HFLR/HB3195%20HFLR.PDF",
+      "type_id": 3,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Amended",
+    "date": "2020-02-06",
+    "description": "https://legiscan.com/OK/text/HB3195/id/2126883",
+    "eventType": "text",
+    "eventIndex": 11,
+    "time": "",
+    "bill_id": "1310873"
+  },
+  "1310873_vo-0": {
+    "eventType": "vote",
+    "eventIndex": 7,
+    "time": "",
+    "bill_id": "1310873",
+    "id": "1310873_vo-0",
+    "data": {
+      "passed": 1,
+      "total": 17,
+      "nv": 0,
+      "desc": "House: Judiciary Committee: DO PASS",
+      "date": "2020-02-04",
+      "yea": 13,
+      "state_link": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB3195_VOTES.HTM",
+      "nay": 4,
+      "chamber_id": 79,
+      "chamber": "H",
+      "roll_call_id": 914540,
+      "absent": 0,
+      "url": "https://legiscan.com/OK/rollcall/HB3195/id/914540"
+    },
+    "chamber": "H",
+    "title": "House: Judiciary Committee: DO PASS (Passed)",
+    "date": "2020-02-04",
+    "description": "yea: 13 nay: 4 nv: 0"
+  },
+  "1312128_hi-0": {
+    "id": "1312128_hi-0",
+    "data": {
+      "importance": 1,
+      "date": "2020-02-03",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1312128"
+  },
+  "1312128_hi-1": {
+    "data": {
+      "action": "Authored by Senator Dahm",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2020-02-03",
+      "chamber_id": 80
+    },
+    "chamber": "S",
+    "title": "Authored by Senator Dahm",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1312128",
+    "id": "1312128_hi-1"
+  },
+  "1312128_pr-0": {
+    "data": {
+      "event": 1,
+      "date": "2020-02-03"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1312128",
+    "id": "1312128_pr-0"
+  },
+  "1312128_tx-0": {
+    "time": "",
+    "bill_id": "1312128",
+    "id": "1312128_tx-0",
+    "data": {
+      "text_size": 54726,
+      "type": "Introduced",
+      "date": "2020-01-16",
+      "doc_id": 2101505,
+      "mime": "application/pdf",
+      "url": "https://legiscan.com/OK/text/SB1819/id/2101505",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB1819%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-01-16",
+    "description": "https://legiscan.com/OK/text/SB1819/id/2101505",
+    "eventType": "text",
+    "eventIndex": 0
+  },
+  "1312775_hi-0": {
+    "data": {
+      "importance": 1,
+      "date": "2020-02-03",
+      "chamber_id": 80,
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "First Reading",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 1,
+    "time": "",
+    "bill_id": "1312775",
+    "id": "1312775_hi-0"
+  },
+  "1312775_hi-1": {
+    "data": {
+      "chamber_id": 80,
+      "action": "Authored by Senator Montgomery",
+      "chamber": "S",
+      "importance": 0,
+      "date": "2020-02-03"
+    },
+    "chamber": "S",
+    "title": "Authored by Senator Montgomery",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history",
+    "eventIndex": 2,
+    "time": "",
+    "bill_id": "1312775",
+    "id": "1312775_hi-1"
+  },
+  "1312775_hi-2": {
+    "eventIndex": 3,
+    "time": "",
+    "bill_id": "1312775",
+    "id": "1312775_hi-2",
+    "data": {
+      "importance": 0,
+      "date": "2020-02-03",
+      "chamber_id": 80,
+      "action": "Coauthored by Representative Pae (principal House author)",
+      "chamber": "S"
+    },
+    "chamber": "S",
+    "title": "Coauthored by Representative Pae (principal House author)",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "history"
+  },
+  "1312775_pr-0": {
+    "bill_id": "1312775",
+    "id": "1312775_pr-0",
+    "data": {
+      "event": 1,
+      "date": "2020-02-03"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-02-03",
+    "description": "",
+    "eventType": "progress",
+    "eventIndex": 4,
+    "time": ""
+  },
+  "1312775_tx-0": {
+    "id": "1312775_tx-0",
+    "data": {
+      "url": "https://legiscan.com/OK/text/SB1871/id/2102175",
+      "state_link": "http://webserver1.lsb.state.ok.us/cf_pdf/2019-20%20INT/SB/SB1871%20INT.PDF",
+      "type_id": 1,
+      "mime_id": 2,
+      "text_size": 63089,
+      "type": "Introduced",
+      "date": "2020-01-16",
+      "doc_id": 2102175,
+      "mime": "application/pdf"
+    },
+    "chamber": "",
+    "title": "Introduced",
+    "date": "2020-01-16",
+    "description": "https://legiscan.com/OK/text/SB1871/id/2102175",
+    "eventType": "text",
+    "eventIndex": 0,
+    "time": "",
+    "bill_id": "1312775"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "__type__": "collection",
+  "2rQOC1RVnz29VhgzWUmR": {
+    "project_description": "Project to track legislation on COVID-19",
+    "updatedAt": {
+      "_seconds": 1584549969,
+      "_nanoseconds": 673000000
+    },
+    "id": "2rQOC1RVnz29VhgzWUmR",
+    "project_name": "COVID Bills",
+    "createdAt": {
+      "_seconds": 1584549969,
+      "_nanoseconds": 673000000
+    },
+    "owner_user_id": "A2B4i3AVzoZxk1dzQYkPsA93NcY2",
+    "project_bills": [
+      {
+        "bill_id": 1360245
+      },
+      {
+        "bill_id": 1360976
+      }
+    ],
+    "owner_organization_id": "0"
+  },
+  "6wLYojE5IBsu59uFWaDk": {
+    "project_name": "Current Tracker Bills",
+    "createdAt": {
+      "_seconds": 1582579775,
+      "_nanoseconds": 494000000
+    },
+    "owner_user_id": "OJWSKKj3iFfIqP8ydiqR9kMKOY22",
+    "project_bills": [
+      {
+        "bill_id": 1311597
+      },
+      {
+        "bill_id": 1300594
+      }
+    ],
+    "owner_organization_id": "0",
+    "project_description": "Bills on the Metriarch tracker",
+    "updatedAt": {
+      "_seconds": 1582579775,
+      "_nanoseconds": 494000000
+    },
+    "id": "6wLYojE5IBsu59uFWaDk"
+  },
+  "7A43u9NosClRLPaZ4pvd": {
+    "id": "7A43u9NosClRLPaZ4pvd",
+    "project_name": "Mindy's Bills",
+    "createdAt": {
+      "_seconds": 1582239943,
+      "_nanoseconds": 973000000
+    },
+    "owner_user_id": "YqrCf6aWZKh2FrN9Ai9wq7auvO82",
+    "project_bills": [
+      {
+        "bill_id": 1310282
+      },
+      {
+        "bill_id": 1310410
+      }
+    ],
+    "owner_organization_id": "0",
+    "project_description": "All of Mindy's bills",
+    "updatedAt": {
+      "_seconds": 1582239943,
+      "_nanoseconds": 973000000
+    }
+  },
+  "CSCco73qNExziGjcnGFa": {
+    "owner_user_id": "OJWSKKj3iFfIqP8ydiqR9kMKOY22",
+    "project_bills": [
+      {
+        "bill_id": 1282194
+      },
+      {
+        "bill_id": 1310410
+      },
+      {
+        "bill_id": 1313095
+      },
+      {
+        "bill_id": 1312600
+      },
+      {
+        "bill_id": 1312586
+      },
+      {
+        "bill_id": 1312182
+      },
+      {
+        "bill_id": 1312586
+      },
+      {
+        "bill_id": 1312148
+      },
+      {
+        "bill_id": 1312152
+      },
+      {
+        "bill_id": 1312148
+      },
+      {
+        "bill_id": 1311965
+      },
+      {
+        "bill_id": 1311824
+      },
+      {
+        "bill_id": 1311597
+      },
+      {
+        "bill_id": 1311354
+      },
+      {
+        "bill_id": 1310416
+      },
+      {
+        "bill_id": 1310365
+      },
+      {
+        "bill_id": 1307773
+      },
+      {
+        "bill_id": 1304361
+      },
+      {
+        "bill_id": 1300594
+      },
+      {
+        "bill_id": 1299662
+      },
+      {
+        "bill_id": 1294991
+      },
+      {
+        "bill_id": 1160708
+      },
+      {
+        "bill_id": 1158977
+      },
+      {
+        "bill_id": 1158608
+      },
+      {
+        "bill_id": 1157163
+      },
+      {
+        "bill_id": 1283938
+      },
+      {
+        "bill_id": 1311909
+      },
+      {
+        "bill_id": 1312988
+      },
+      {
+        "bill_id": 1305462
+      },
+      {
+        "bill_id": 1310282
+      },
+      {
+        "bill_id": 1313298
+      },
+      {
+        "bill_id": 1311958
+      },
+      {
+        "bill_id": 1282002
+      },
+      {
+        "bill_id": 1312038
+      }
+    ],
+    "owner_organization_id": "0",
+    "updatedAt": {
+      "_seconds": 1582129873,
+      "_nanoseconds": 908000000
+    },
+    "id": "CSCco73qNExziGjcnGFa",
+    "project_name": "Emma's bills",
+    "createdAt": {
+      "_seconds": 1582129873,
+      "_nanoseconds": 908000000
+    }
+  },
+  "ExUebbJjKQCZCULOTVF4": {
+    "id": "ExUebbJjKQCZCULOTVF4",
+    "project_name": "Kristina's Sample Project",
+    "createdAt": {
+      "_seconds": 1583177226,
+      "_nanoseconds": 399000000
+    },
+    "owner_user_id": "It68UNaIrVcXD3tONYcm74iZ47L2",
+    "project_bills": [
+      {
+        "bill_id": 1282769
+      },
+      {
+        "bill_id": 1298934
+      },
+      {
+        "bill_id": 1307568
+      }
+    ],
+    "owner_organization_id": "0",
+    "project_description": "A demo project for Kristina",
+    "updatedAt": {
+      "_seconds": 1583177226,
+      "_nanoseconds": 399000000
+    }
+  },
+  "Fji4d4E0pqOlJS5sbx4F": {
+    "id": "Fji4d4E0pqOlJS5sbx4F",
+    "project_name": "Oklahoma Women's Coalition",
+    "createdAt": {
+      "_seconds": 1582477158,
+      "_nanoseconds": 555000000
+    },
+    "owner_user_id": "Lx65w2uRFdYOrZtCOyxQHQsNbtC3",
+    "project_bills": [
+      {
+        "bill_id": 1304811
+      },
+      {
+        "bill_id": 1304710
+      },
+      {
+        "bill_id": 1305560
+      },
+      {
+        "bill_id": 1310410
+      },
+      {
+        "bill_id": 1310130
+      },
+      {
+        "bill_id": 1310416
+      },
+      {
+        "bill_id": 1310365
+      },
+      {
+        "bill_id": 1311354
+      },
+      {
+        "bill_id": 1311965
+      },
+      {
+        "bill_id": 1312148
+      },
+      {
+        "bill_id": 1311824
+      },
+      {
+        "bill_id": 1312586
+      },
+      {
+        "bill_id": 1313045
+      },
+      {
+        "bill_id": 1312523
+      },
+      {
+        "bill_id": 1313095
+      },
+      {
+        "bill_id": 1312600
+      },
+      {
+        "bill_id": 1294991
+      },
+      {
+        "bill_id": 1295017
+      },
+      {
+        "bill_id": 1299662
+      },
+      {
+        "bill_id": 1300594
+      },
+      {
+        "bill_id": 1304361
+      },
+      {
+        "bill_id": 1307773
+      },
+      {
+        "bill_id": 1312152
+      },
+      {
+        "bill_id": 1312182
+      },
+      {
+        "bill_id": 1311597
+      },
+      {
+        "bill_id": 1158977
+      },
+      {
+        "bill_id": 1158608
+      },
+      {
+        "bill_id": 1160607
+      },
+      {
+        "bill_id": 1159591
+      },
+      {
+        "bill_id": 1160708
+      },
+      {
+        "bill_id": 1156364
+      },
+      {
+        "bill_id": 1157163
+      },
+      {
+        "bill_id": 1282769
+      },
+      {
+        "bill_id": 1312661
+      },
+      {
+        "bill_id": 1283442
+      },
+      {
+        "bill_id": 1282194
+      },
+      {
+        "bill_id": 1311491
+      },
+      {
+        "bill_id": 1283196
+      },
+      {
+        "bill_id": 1312205
+      },
+      {
+        "bill_id": 1309773
+      },
+      {
+        "bill_id": 1282205
+      },
+      {
+        "bill_id": 1292793
+      },
+      {
+        "bill_id": 1284027
+      }
+    ],
+    "owner_organization_id": "0",
+    "project_description": "Bills to track",
+    "updatedAt": {
+      "_seconds": 1582477158,
+      "_nanoseconds": 555000000
+    }
+  },
+  "OkGDMDDmarhl4tTlsWRf": {
+    "id": "OkGDMDDmarhl4tTlsWRf",
+    "project_name": "TCI Bills",
+    "createdAt": {
+      "_seconds": 1582559607,
+      "_nanoseconds": 66000000
+    },
+    "owner_user_id": "Va8fZ8fnCMQZjuqRG424e9qWlI33",
+    "project_bills": [
+      {
+        "bill_id": 1282194
+      },
+      {
+        "bill_id": 1304210
+      }
+    ],
+    "owner_organization_id": "0",
+    "updatedAt": {
+      "_seconds": 1582559607,
+      "_nanoseconds": 66000000
+    }
+  },
+  "S1ZfUhxsn0ZDnCkfjqbr": {
+    "id": "S1ZfUhxsn0ZDnCkfjqbr",
+    "project_name": "My Oklahoma Bills",
+    "createdAt": {
+      "_seconds": 1582076277,
+      "_nanoseconds": 857000000
+    },
+    "owner_user_id": "A2B4i3AVzoZxk1dzQYkPsA93NcY2",
+    "project_bills": [
+      {
+        "bill_id": 1154468
+      },
+      {
+        "bill_id": 590674
+      },
+      {
+        "bill_id": 1281218
+      }
+    ],
+    "owner_organization_id": "0",
+    "updatedAt": {
+      "_seconds": 1582076277,
+      "_nanoseconds": 857000000
+    }
+  },
+  "SjppZaCOid7POg2310Ve": {
+    "project_bills": [
+      {
+        "bill_id": 1154828
+      },
+      {
+        "bill_id": 687030
+      },
+      {
+        "bill_id": 1130626
+      },
+      {
+        "bill_id": 660612
+      },
+      {
+        "bill_id": 890515
+      }
+    ],
+    "owner_organization_id": "0",
+    "bills": [
+      1154828,
+      687030,
+      1130626
+    ],
+    "updatedAt": {
+      "_seconds": 1582002432,
+      "_nanoseconds": 654000000
+    },
+    "id": "SjppZaCOid7POg2310Ve",
+    "project_name": "Test Project 1",
+    "createdAt": {
+      "_seconds": 1582002432,
+      "_nanoseconds": 654000000
+    },
+    "owner_user_id": "A2B4i3AVzoZxk1dzQYkPsA93NcY2"
+  },
+  "WFQaSvUjV4q2gjgRx5Ue": {
+    "updatedAt": {
+      "_seconds": 1582216805,
+      "_nanoseconds": 321000000
+    },
+    "id": "WFQaSvUjV4q2gjgRx5Ue",
+    "project_name": "Demo Project",
+    "createdAt": {
+      "_seconds": 1582216805,
+      "_nanoseconds": 321000000
+    },
+    "owner_user_id": "Lx65w2uRFdYOrZtCOyxQHQsNbtC3",
+    "project_bills": [
+      {
+        "bill_id": 1282194
+      }
+    ],
+    "owner_organization_id": "0"
+  },
+  "kbY5hanCdrIDdKxizxfI": {
+    "project_name": "Adams bills",
+    "createdAt": {
+      "_seconds": 1582157284,
+      "_nanoseconds": 17000000
+    },
+    "owner_user_id": "A2B4i3AVzoZxk1dzQYkPsA93NcY2",
+    "project_bills": [
+      {
+        "bill_id": 115786
+      },
+      {
+        "bill_id": 920722
+      },
+      {
+        "bill_id": 1311909
+      },
+      {
+        "bill_id": 1140598
+      },
+      {
+        "bill_id": 1311723
+      },
+      {
+        "bill_id": 1313298
+      },
+      {
+        "bill_id": 1312128
+      },
+      {
+        "bill_id": 1311965
+      },
+      {
+        "bill_id": 911927
+      },
+      {
+        "bill_id": 1157728
+      }
+    ],
+    "owner_organization_id": "0",
+    "updatedAt": {
+      "_seconds": 1582157284,
+      "_nanoseconds": 17000000
+    },
+    "id": "kbY5hanCdrIDdKxizxfI"
+  }
+}

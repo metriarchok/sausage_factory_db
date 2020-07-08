@@ -1,0 +1,575 @@
+{
+  "__type__": "collection",
+  "1130626_SjppZaCOid7POg2310Ve": {
+    "bill_id": "1130626",
+    "project_id": "SjppZaCOid7POg2310Ve"
+  },
+  "1130626_gUne6hGYbB7ragWPux2z": {
+    "project_id": "gUne6hGYbB7ragWPux2z",
+    "bill_id": "1130626"
+  },
+  "1140598_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "1140598",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  },
+  "1154468_S1ZfUhxsn0ZDnCkfjqbr": {
+    "project_id": "S1ZfUhxsn0ZDnCkfjqbr",
+    "id": "1154468_S1ZfUhxsn0ZDnCkfjqbr",
+    "bill_summary": "<h2>This is a horrible bill</h2>",
+    "title": "Anti choice bill",
+    "updatedAt": {
+      "_seconds": 1582686209,
+      "_nanoseconds": 348000000
+    },
+    "bill_id": "1154468"
+  },
+  "1154828_SjppZaCOid7POg2310Ve": {
+    "project_id": "SjppZaCOid7POg2310Ve",
+    "bill_id": "1154828"
+  },
+  "1156364_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1156364,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1157163_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1157163"
+  },
+  "1157163_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1157163,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1157728_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "1157728",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  },
+  "115786_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "115786",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  },
+  "1158608_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1158608",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1158608_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1158608,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1158977_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1158977",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1158977_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1158977,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1159591_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1159591,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1159955_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": 1159955
+  },
+  "1160607_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1160607,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1160708_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1160708"
+  },
+  "1160708_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1160708,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1281218_S1ZfUhxsn0ZDnCkfjqbr": {
+    "bill_id": "1281218",
+    "project_id": "S1ZfUhxsn0ZDnCkfjqbr"
+  },
+  "1282002_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1282002",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1282194_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1282194",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1282194_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_summary": "<p>The bill would revoke for one year the medical licenses of doctors performing abortions, except when the woman’s life is in danger.</p>",
+    "title": "Revoking Medical Licenses (Abortion)",
+    "updatedAt": {
+      "_seconds": 1583338808,
+      "_nanoseconds": 416000000
+    },
+    "bill_id": "1282194",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1282194_Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1282194_OkGDMDDmarhl4tTlsWRf": {
+    "bill_id": "1282194",
+    "project_id": "OkGDMDDmarhl4tTlsWRf"
+  },
+  "1282194_WFQaSvUjV4q2gjgRx5Ue": {
+    "project_id": "WFQaSvUjV4q2gjgRx5Ue",
+    "id": "1282194_WFQaSvUjV4q2gjgRx5Ue",
+    "category": "Health",
+    "bill_summary": "<h2><br></h2>",
+    "title": "Overregulation of Physicians Act",
+    "updatedAt": {
+      "_seconds": 1582662700,
+      "_nanoseconds": 41000000
+    },
+    "bill_id": "1282194",
+    "tags": [
+      "Health",
+      "Maternal Health"
+    ]
+  },
+  "1282205_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": "1282205"
+  },
+  "1282769_ExUebbJjKQCZCULOTVF4": {
+    "category": "Maternal Health",
+    "bill_summary": "<h3>Drivers licenses bill:</h3><ol><li>two</li><li>three</li></ol>",
+    "title": "Drivers licenses bill",
+    "updatedAt": {
+      "_seconds": 1583177370,
+      "_nanoseconds": 649000000
+    },
+    "bill_id": "1282769",
+    "tags": [
+      "Education",
+      "Health"
+    ],
+    "project_id": "ExUebbJjKQCZCULOTVF4",
+    "id": "1282769_ExUebbJjKQCZCULOTVF4"
+  },
+  "1282769_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1282769_Fji4d4E0pqOlJS5sbx4F",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill would prevent the state from suspending, revoking, or refusing to renew driver’s licenses for unpaid fees. It would have a major positive impact for folks reintegrating after incarceration.</span></p><p><br></p>",
+    "title": "Free to Drive",
+    "updatedAt": {
+      "_seconds": 1583337788,
+      "_nanoseconds": 425000000
+    },
+    "bill_id": "1282769"
+  },
+  "1283196_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1283196",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1283442_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1283442",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1283442_Fji4d4E0pqOlJS5sbx4F",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill would create the Inmate ID Act of 2020, which would require the Department of Corrections to coordinate with the Department of Public Safety to provide ID cards to all folks who don’t have a state-issued ID prior to their release from incarceration.</span></p>",
+    "title": "Inmate ID Act of 2020",
+    "updatedAt": {
+      "_seconds": 1583338460,
+      "_nanoseconds": 277000000
+    }
+  },
+  "1283938_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1283938",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1284027_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1284027",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1292793_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1292793",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1294991_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1294991",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1294991_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1294991,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1295017_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1295017,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1298934_ExUebbJjKQCZCULOTVF4": {
+    "bill_id": "1298934",
+    "project_id": "ExUebbJjKQCZCULOTVF4"
+  },
+  "1299662_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1299662"
+  },
+  "1299662_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1299662,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1300594_6wLYojE5IBsu59uFWaDk": {
+    "project_id": "6wLYojE5IBsu59uFWaDk",
+    "bill_id": "1300594"
+  },
+  "1300594_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1300594",
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "id": "1300594_CSCco73qNExziGjcnGFa",
+    "title": null,
+    "updatedAt": {
+      "_seconds": 1582829114,
+      "_nanoseconds": 207000000
+    }
+  },
+  "1300594_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1300594,
+    "tags": [
+      "Education",
+      "Health"
+    ],
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1300594_Fji4d4E0pqOlJS5sbx4F",
+    "category": "Health",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill adds health and physical education to the list of curricular standards to be taught in Oklahoma’s public schools. Oklahoma falls behind on many student health metrics, and this could greatly improve student health literacy, healthy behaviors, and academic achievement.</span></p>",
+    "title": "Health Education Act",
+    "updatedAt": {
+      "_seconds": 1583335266,
+      "_nanoseconds": 106000000
+    }
+  },
+  "1304210_OkGDMDDmarhl4tTlsWRf": {
+    "bill_id": "1304210",
+    "project_id": "OkGDMDDmarhl4tTlsWRf"
+  },
+  "1304361_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1304361",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1304361_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1304361,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1304710_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1304710",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1304811_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1304811",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1305462_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1305462",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1305560_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1305560",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1307568_ExUebbJjKQCZCULOTVF4": {
+    "bill_id": "1307568",
+    "project_id": "ExUebbJjKQCZCULOTVF4"
+  },
+  "1307773_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1307773",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1307773_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1307773,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1309773_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1309773",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1310130_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1310130",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1310282_7A43u9NosClRLPaZ4pvd": {
+    "bill_id": "1310282",
+    "project_id": "7A43u9NosClRLPaZ4pvd"
+  },
+  "1310282_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1310282"
+  },
+  "1310365_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1310365",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1310365_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1310365",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1310410_7A43u9NosClRLPaZ4pvd": {
+    "bill_id": "1310410",
+    "project_id": "7A43u9NosClRLPaZ4pvd"
+  },
+  "1310410_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1310410",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1310410_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": "1310410"
+  },
+  "1310416_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1310416",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1310416_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1310416",
+    "tags": [
+      "Health",
+      "Maternal Health"
+    ],
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1310416_Fji4d4E0pqOlJS5sbx4F",
+    "category": "Maternal Health",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill seeks to lower infant and maternal mortality rates by requiring hospitals and birthing centers to implement an implicit bias training program. The bill, which is desperately needed, is intended to lower the disproportionate rates of maternal and infant mortality rates within minority communities. </span></p>",
+    "title": "Maternal and Infant Mortality Implicit Bias Training",
+    "updatedAt": {
+      "_seconds": 1583337376,
+      "_nanoseconds": 768000000
+    }
+  },
+  "1311354_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1311354",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1311354_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1311354",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1311491_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill would add strangulation to Oklahoma’s list of violent crimes as well as increase punishments for those convicted of strangulation.</span></p>",
+    "title": "Making Strangulation a Violent Crime",
+    "updatedAt": {
+      "_seconds": 1583339310,
+      "_nanoseconds": 648000000
+    },
+    "bill_id": "1311491",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1311491_Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1311597_6wLYojE5IBsu59uFWaDk": {
+    "bill_id": "1311597",
+    "project_id": "6wLYojE5IBsu59uFWaDk"
+  },
+  "1311597_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1311597",
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "id": "1311597_CSCco73qNExziGjcnGFa",
+    "title": "Shepherd's Law",
+    "updatedAt": {
+      "_seconds": 1582662618,
+      "_nanoseconds": 961000000
+    }
+  },
+  "1311597_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1311597,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1311723_kbY5hanCdrIDdKxizxfI": {
+    "bill_summary": "<h2>No justification for anti-choice legislation</h2>",
+    "title": "“Unborn Person Rights” Anti-Choice Bill",
+    "updatedAt": {
+      "_seconds": 1582679249,
+      "_nanoseconds": 249000000
+    },
+    "bill_id": "1311723",
+    "tags": [
+      "Health",
+      "Maternal Health"
+    ],
+    "project_id": "kbY5hanCdrIDdKxizxfI",
+    "id": "1311723_kbY5hanCdrIDdKxizxfI",
+    "category": "Health"
+  },
+  "1311824_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1311824",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1311824_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": "1311824"
+  },
+  "1311909_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1311909",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1311909_kbY5hanCdrIDdKxizxfI": {
+    "project_id": "kbY5hanCdrIDdKxizxfI",
+    "bill_id": "1311909"
+  },
+  "1311958_CSCco73qNExziGjcnGFa": {
+    "bill_id": 1311958,
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1311965_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1311965",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1311965_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1311965",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1311965_Fji4d4E0pqOlJS5sbx4F",
+    "bill_summary": "<p>This bill would create the Office of Liaison for Missing and Murdered Indigenous Persons (MMIP). This would make it easier for law enforcement to investigate missing or murdered indigenous people. </p>",
+    "title": "Ida's Law (MMIP)",
+    "updatedAt": {
+      "_seconds": 1583337590,
+      "_nanoseconds": 976000000
+    }
+  },
+  "1311965_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "1311965",
+    "project_id": "kbY5hanCdrIDdKxizxfI",
+    "id": "1311965_kbY5hanCdrIDdKxizxfI",
+    "title": "Ida's Law",
+    "updatedAt": {
+      "_seconds": 1583339681,
+      "_nanoseconds": 485000000
+    }
+  },
+  "1312038_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1312038"
+  },
+  "1312128_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "1312128",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  },
+  "1312148_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312148",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1312148_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1312148",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1312152_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312152",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1312152_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1312152,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1312182_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312182",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1312182_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1312182,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1312205_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1312205",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1312523_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": 1312523
+  },
+  "1312586_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312586",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1312586_Fji4d4E0pqOlJS5sbx4F": {
+    "title": "Conversion Therapy Ban",
+    "updatedAt": {
+      "_seconds": 1583338968,
+      "_nanoseconds": 367000000
+    },
+    "bill_id": 1312586,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1312586_Fji4d4E0pqOlJS5sbx4F",
+    "category": "Health",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill  would ban the use of conversion therapy against LGBTQ Oklahomans. It would  protect LGBTQ youth from the harmful practices of therapists who falsely claim they can alter sexual orientation.</span></p>"
+  },
+  "1312600_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312600",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1312600_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1312600,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1312661_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": "1312661",
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "id": "1312661_Fji4d4E0pqOlJS5sbx4F",
+    "category": "Health",
+    "bill_summary": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This bill would ban child marriage for anyone under 18 years of age.</span></p>",
+    "title": "Child Marriage Ban",
+    "updatedAt": {
+      "_seconds": 1583338101,
+      "_nanoseconds": 474000000
+    }
+  },
+  "1312988_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1312988",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1313045_Fji4d4E0pqOlJS5sbx4F": {
+    "bill_id": 1313045,
+    "project_id": "Fji4d4E0pqOlJS5sbx4F"
+  },
+  "1313095_CSCco73qNExziGjcnGFa": {
+    "bill_id": "1313095",
+    "project_id": "CSCco73qNExziGjcnGFa"
+  },
+  "1313095_Fji4d4E0pqOlJS5sbx4F": {
+    "project_id": "Fji4d4E0pqOlJS5sbx4F",
+    "bill_id": 1313095
+  },
+  "1313298_CSCco73qNExziGjcnGFa": {
+    "project_id": "CSCco73qNExziGjcnGFa",
+    "bill_id": "1313298"
+  },
+  "1313298_kbY5hanCdrIDdKxizxfI": {
+    "project_id": "kbY5hanCdrIDdKxizxfI",
+    "bill_id": "1313298"
+  },
+  "1360245_2rQOC1RVnz29VhgzWUmR": {
+    "bill_id": "1360245",
+    "project_id": "2rQOC1RVnz29VhgzWUmR"
+  },
+  "1360976_2rQOC1RVnz29VhgzWUmR": {
+    "bill_id": "1360976",
+    "project_id": "2rQOC1RVnz29VhgzWUmR"
+  },
+  "590674_S1ZfUhxsn0ZDnCkfjqbr": {
+    "bill_id": "590674",
+    "project_id": "S1ZfUhxsn0ZDnCkfjqbr"
+  },
+  "660612_SjppZaCOid7POg2310Ve": {
+    "project_id": "SjppZaCOid7POg2310Ve",
+    "bill_id": "660612"
+  },
+  "660612_gUne6hGYbB7ragWPux2z": {
+    "bill_id": "660612",
+    "project_id": "gUne6hGYbB7ragWPux2z"
+  },
+  "687030_2KFLZaY4yzuZzMwhadoN": {
+    "bill_id": 687030,
+    "project_id": "2KFLZaY4yzuZzMwhadoN"
+  },
+  "687030_SjppZaCOid7POg2310Ve": {
+    "project_id": "SjppZaCOid7POg2310Ve",
+    "bill_id": "687030"
+  },
+  "890515_SjppZaCOid7POg2310Ve": {
+    "bill_id": "890515",
+    "project_id": "SjppZaCOid7POg2310Ve"
+  },
+  "911927_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "911927",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  },
+  "920722_kbY5hanCdrIDdKxizxfI": {
+    "bill_id": "920722",
+    "project_id": "kbY5hanCdrIDdKxizxfI"
+  }
+}
